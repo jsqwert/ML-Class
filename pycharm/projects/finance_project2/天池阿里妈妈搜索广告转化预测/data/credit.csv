@@ -1,0 +1,1001 @@
+checking_balance,months_loan_duration,credit_history,purpose,amount,savings_balance,employment_duration,percent_of_income,years_at_residence,age,other_credit,housing,existing_loans_count,job,dependents,phone,default
+< 0 DM,6,critical,furniture/appliances,1169.00 ,unknown,> 7 years,4,4,67,none,own,2,skilled,1,yes,no
+1 - 200 DM,48,good,furniture/appliances,5951.00 ,< 100 DM,1 - 4 years,2,2,22,none,own,1,skilled,1,no,yes
+unknown,12,critical,education,2096.00 ,< 100 DM,4 - 7 years,2,3,49,none,own,1,unskilled,2,no,no
+< 0 DM,42,good,furniture/appliances,7882.00 ,< 100 DM,4 - 7 years,2,4,45,none,other,1,skilled,2,no,no
+< 0 DM,24,poor,car,4870.00 ,< 100 DM,1 - 4 years,3,4,53,none,other,2,skilled,2,no,yes
+unknown,36,good,education,9055.00 ,unknown,1 - 4 years,2,4,35,none,other,1,unskilled,2,yes,no
+unknown,24,good,furniture/appliances,2835.00 ,500 - 1000 DM,> 7 years,3,4,53,none,own,1,skilled,1,no,no
+1 - 200 DM,36,good,car,6948.00 ,< 100 DM,1 - 4 years,2,2,35,none,rent,1,management,1,yes,no
+unknown,12,good,furniture/appliances,3059.00 ,> 1000 DM,4 - 7 years,2,4,61,none,own,1,unskilled,1,no,no
+1 - 200 DM,30,critical,car,5234.00 ,< 100 DM,unemployed,4,2,28,none,own,2,management,1,no,yes
+1 - 200 DM,12,good,car,1295.00 ,< 100 DM,< 1 year,3,1,25,none,rent,1,skilled,1,no,yes
+< 0 DM,48,good,business,4308.00 ,< 100 DM,< 1 year,3,4,24,none,rent,1,skilled,1,no,yes
+1 - 200 DM,12,good,furniture/appliances,,< 100 DM,1 - 4 years,1,1,22,none,own,1,skilled,1,yes,no
+< 0 DM,24,critical,car,1199.00 ,< 100 DM,> 7 years,4,4,60,none,own,2,unskilled,1,no,yes
+< 0 DM,15,good,car,1403.00 ,< 100 DM,1 - 4 years,2,4,28,none,rent,1,skilled,1,no,no
+< 0 DM,24,good,furniture/appliances,1282.00 ,100 - 500 DM,1 - 4 years,4,2,32,none,own,1,unskilled,1,no,yes
+unknown,24,critical,furniture/appliances,2424.00 ,unknown,> 7 years,4,4,53,none,own,2,skilled,1,no,no
+< 0 DM,30,perfect,business,8072.00 ,unknown,< 1 year,2,3,25,bank,own,3,skilled,1,no,no
+1 - 200 DM,24,good,car,12579.00 ,< 100 DM,> 7 years,4,2,44,none,other,1,management,1,yes,yes
+unknown,24,good,furniture/appliances,3430.00 ,500 - 1000 DM,> 7 years,3,2,31,none,own,1,skilled,2,yes,no
+unknown,9,critical,car,,< 100 DM,1 - 4 years,4,4,48,none,own,3,skilled,1,yes,no
+< 0 DM,6,good,furniture/appliances,2647.00 ,500 - 1000 DM,1 - 4 years,2,3,44,none,rent,1,skilled,2,no,no
+< 0 DM,10,critical,car,2241.00 ,< 100 DM,< 1 year,1,3,48,none,rent,2,unskilled,2,no,no
+1 - 200 DM,12,critical,car,1804.00 ,100 - 500 DM,< 1 year,3,4,44,none,own,1,skilled,1,no,no
+unknown,10,critical,furniture/appliances,2069.00 ,unknown,1 - 4 years,2,1,26,none,own,2,skilled,1,no,no
+< 0 DM,6,good,furniture/appliances,1374.00 ,< 100 DM,1 - 4 years,1,2,36,bank,own,1,unskilled,1,yes,no
+unknown,6,perfect,furniture/appliances,426.00 ,< 100 DM,> 7 years,4,4,39,none,own,1,unskilled,1,no,no
+> 200 DM,12,very good,furniture/appliances,409.00 ,> 1000 DM,1 - 4 years,3,3,42,none,rent,2,skilled,1,no,no
+1 - 200 DM,7,good,furniture/appliances,2415.00 ,< 100 DM,1 - 4 years,3,2,34,none,own,1,skilled,1,no,no
+< 0 DM,60,poor,business,6836.00 ,< 100 DM,> 7 years,3,4,63,none,own,2,skilled,1,yes,yes
+1 - 200 DM,18,good,business,1913.00 ,> 1000 DM,< 1 year,3,3,36,bank,own,1,skilled,1,yes,no
+< 0 DM,24,good,furniture/appliances,4020.00 ,< 100 DM,1 - 4 years,2,2,27,store,own,1,skilled,1,no,no
+1 - 200 DM,18,good,car,5866.00 ,100 - 500 DM,1 - 4 years,2,2,30,none,own,2,skilled,1,yes,no
+unknown,12,critical,business,1264.00 ,unknown,> 7 years,4,4,57,none,rent,1,unskilled,1,no,no
+> 200 DM,12,good,furniture/appliances,1474.00 ,< 100 DM,< 1 year,4,1,33,bank,own,1,management,1,yes,no
+1 - 200 DM,45,critical,furniture/appliances,4746.00 ,< 100 DM,< 1 year,4,2,25,none,own,2,unskilled,1,no,yes
+unknown,48,critical,education,6110.00 ,< 100 DM,1 - 4 years,1,3,31,bank,other,1,skilled,1,yes,no
+> 200 DM,18,good,furniture/appliances,2100.00 ,< 100 DM,1 - 4 years,4,2,37,store,own,1,skilled,1,no,yes
+> 200 DM,10,good,furniture/appliances,1225.00 ,< 100 DM,1 - 4 years,2,2,37,none,own,1,skilled,1,yes,no
+1 - 200 DM,9,good,furniture/appliances,458.00 ,< 100 DM,1 - 4 years,4,3,24,none,own,1,skilled,1,no,no
+unknown,30,good,furniture/appliances,2333.00 ,500 - 1000 DM,> 7 years,4,2,30,bank,own,1,management,1,no,no
+1 - 200 DM,12,good,furniture/appliances,1158.00 ,500 - 1000 DM,1 - 4 years,3,1,26,none,own,1,skilled,1,yes,no
+1 - 200 DM,18,poor,renovations,6204.00 ,< 100 DM,1 - 4 years,2,4,44,none,own,1,unskilled,2,yes,no
+< 0 DM,30,critical,car,6187.00 ,100 - 500 DM,4 - 7 years,1,4,24,none,rent,2,skilled,1,no,no
+< 0 DM,48,critical,car,6143.00 ,< 100 DM,> 7 years,4,4,58,store,other,2,unskilled,1,no,yes
+unknown,11,critical,car,1393.00 ,< 100 DM,< 1 year,4,4,35,none,own,2,management,1,no,no
+unknown,36,good,furniture/appliances,2299.00 ,500 - 1000 DM,> 7 years,4,4,39,none,own,1,skilled,1,no,no
+< 0 DM,6,good,car,1352.00 ,500 - 1000 DM,unemployed,1,2,23,none,rent,1,unemployed,1,yes,no
+unknown,11,critical,car,7228.00 ,< 100 DM,1 - 4 years,1,4,39,none,own,2,unskilled,1,no,no
+unknown,12,good,furniture/appliances,2073.00 ,100 - 500 DM,1 - 4 years,4,2,28,none,own,1,skilled,1,no,no
+1 - 200 DM,24,poor,furniture/appliances,2333.00 ,unknown,< 1 year,4,2,29,bank,own,1,unskilled,1,no,no
+1 - 200 DM,27,poor,car,5965.00 ,< 100 DM,> 7 years,1,2,30,none,own,2,management,1,yes,no
+unknown,12,good,furniture/appliances,1262.00 ,< 100 DM,1 - 4 years,3,2,25,none,own,1,skilled,1,no,no
+unknown,18,good,car,3378.00 ,unknown,1 - 4 years,2,1,31,none,own,1,skilled,1,yes,no
+1 - 200 DM,36,poor,car,2225.00 ,< 100 DM,> 7 years,4,4,57,bank,other,2,skilled,1,yes,yes
+unknown,6,very good,car,783.00 ,unknown,1 - 4 years,1,2,26,store,own,1,unskilled,2,no,no
+1 - 200 DM,12,good,furniture/appliances,6468.00 ,unknown,unemployed,2,1,52,none,own,1,management,1,yes,yes
+unknown,36,critical,furniture/appliances,9566.00 ,< 100 DM,1 - 4 years,2,2,31,store,own,2,skilled,1,no,no
+> 200 DM,18,good,car,,< 100 DM,> 7 years,3,2,23,none,own,1,management,1,no,no
+< 0 DM,36,critical,furniture/appliances,6229.00 ,< 100 DM,< 1 year,4,4,23,none,rent,2,unskilled,1,yes,yes
+1 - 200 DM,9,good,business,1391.00 ,< 100 DM,1 - 4 years,2,1,27,bank,own,1,skilled,1,yes,no
+1 - 200 DM,15,critical,furniture/appliances,1537.00 ,unknown,> 7 years,4,4,50,none,own,2,skilled,1,yes,no
+1 - 200 DM,36,perfect,business,1953.00 ,< 100 DM,> 7 years,4,4,61,none,other,1,management,1,yes,yes
+1 - 200 DM,48,perfect,business,14421.00 ,< 100 DM,1 - 4 years,2,2,25,none,own,1,skilled,1,yes,yes
+unknown,24,good,furniture/appliances,3181.00 ,< 100 DM,< 1 year,4,4,26,none,own,1,skilled,1,yes,no
+unknown,27,good,renovations,5190.00 ,unknown,> 7 years,4,4,48,none,own,4,skilled,2,yes,no
+unknown,12,good,furniture/appliances,2171.00 ,< 100 DM,< 1 year,2,2,29,bank,own,1,skilled,1,no,no
+1 - 200 DM,12,good,car,1007.00 ,> 1000 DM,1 - 4 years,4,1,22,none,own,1,skilled,1,no,no
+unknown,36,good,education,1819.00 ,< 100 DM,1 - 4 years,4,4,37,store,other,1,skilled,1,yes,yes
+unknown,36,good,furniture/appliances,2394.00 ,unknown,1 - 4 years,4,4,25,none,own,1,skilled,1,no,no
+unknown,36,good,car,8133.00 ,< 100 DM,1 - 4 years,1,2,30,bank,own,1,skilled,1,no,no
+unknown,7,critical,furniture/appliances,730.00 ,unknown,> 7 years,4,2,46,none,rent,2,unskilled,1,yes,no
+< 0 DM,8,critical,car0,1164.00 ,< 100 DM,> 7 years,3,4,51,bank,other,2,management,2,yes,no
+1 - 200 DM,42,critical,business,5954.00 ,< 100 DM,4 - 7 years,2,1,41,bank,own,2,unskilled,1,no,no
+< 0 DM,36,good,education,1977.00 ,unknown,> 7 years,4,4,40,none,own,1,management,1,yes,yes
+< 0 DM,12,critical,car,1526.00 ,< 100 DM,> 7 years,4,4,66,none,other,2,management,1,no,no
+< 0 DM,42,good,furniture/appliances,3965.00 ,< 100 DM,< 1 year,4,3,34,none,own,1,skilled,1,no,yes
+1 - 200 DM,11,poor,furniture/appliances,4771.00 ,< 100 DM,4 - 7 years,2,4,51,none,own,1,skilled,1,no,no
+unknown,54,perfect,car,9436.00 ,unknown,1 - 4 years,2,2,39,none,own,1,unskilled,2,no,no
+1 - 200 DM,30,good,furniture/appliances,3832.00 ,< 100 DM,< 1 year,2,1,22,none,own,1,skilled,1,no,no
+unknown,24,good,furniture/appliances,5943.00 ,unknown,< 1 year,1,1,44,none,own,2,skilled,1,yes,yes
+unknown,15,good,furniture/appliances,1213.00 ,500 - 1000 DM,> 7 years,4,3,47,store,own,1,skilled,1,yes,no
+unknown,18,good,business,,100 - 500 DM,1 - 4 years,3,4,24,none,rent,1,unskilled,1,no,no
+< 0 DM,24,good,car0,1755.00 ,< 100 DM,> 7 years,4,4,58,none,own,1,unskilled,1,yes,no
+< 0 DM,10,good,furniture/appliances,2315.00 ,< 100 DM,> 7 years,3,4,52,none,own,1,unskilled,1,no,no
+unknown,12,critical,business,1412.00 ,< 100 DM,1 - 4 years,4,2,29,none,own,2,management,1,yes,no
+1 - 200 DM,18,critical,furniture/appliances,1295.00 ,< 100 DM,< 1 year,4,1,27,none,own,2,skilled,1,no,no
+1 - 200 DM,36,good,education,12612.00 ,100 - 500 DM,1 - 4 years,1,4,47,none,other,1,skilled,2,yes,yes
+< 0 DM,18,good,car,2249.00 ,100 - 500 DM,4 - 7 years,4,3,30,none,own,1,management,2,yes,no
+< 0 DM,12,perfect,renovations,1108.00 ,< 100 DM,4 - 7 years,4,3,28,none,own,2,skilled,1,no,yes
+unknown,12,critical,furniture/appliances,618.00 ,< 100 DM,> 7 years,4,4,56,none,own,1,skilled,1,no,no
+< 0 DM,12,critical,car,1409.00 ,< 100 DM,> 7 years,4,3,54,none,own,1,skilled,1,no,no
+unknown,12,critical,furniture/appliances,797.00 ,unknown,> 7 years,4,3,33,bank,own,1,unskilled,2,no,yes
+> 200 DM,24,critical,furniture/appliances,3617.00 ,unknown,> 7 years,4,4,20,none,rent,2,skilled,1,no,no
+1 - 200 DM,12,good,car,1318.00 ,> 1000 DM,> 7 years,4,4,54,none,own,1,skilled,1,yes,no
+1 - 200 DM,54,perfect,business,15945.00 ,< 100 DM,< 1 year,3,4,58,none,rent,1,skilled,1,yes,yes
+unknown,12,critical,education,2012.00 ,unknown,4 - 7 years,4,2,61,none,own,1,skilled,1,no,no
+1 - 200 DM,18,good,business,2622.00 ,100 - 500 DM,1 - 4 years,4,4,34,none,own,1,skilled,1,no,no
+1 - 200 DM,36,critical,furniture/appliances,2337.00 ,< 100 DM,> 7 years,4,4,36,none,own,1,skilled,1,no,no
+1 - 200 DM,20,poor,car,7057.00 ,unknown,4 - 7 years,3,4,36,bank,rent,2,management,2,yes,no
+unknown,24,good,car,1469.00 ,100 - 500 DM,> 7 years,4,4,41,none,rent,1,unskilled,1,no,no
+1 - 200 DM,36,good,furniture/appliances,2323.00 ,< 100 DM,4 - 7 years,4,4,24,none,rent,1,skilled,1,no,no
+unknown,6,poor,furniture/appliances,932.00 ,< 100 DM,1 - 4 years,3,2,24,none,own,1,skilled,1,no,no
+1 - 200 DM,9,critical,furniture/appliances,1919.00 ,< 100 DM,4 - 7 years,4,3,35,none,rent,1,skilled,1,yes,no
+unknown,12,good,car,2445.00 ,unknown,< 1 year,2,4,26,none,rent,1,skilled,1,yes,no
+1 - 200 DM,24,critical,car0,11938.00 ,< 100 DM,1 - 4 years,2,3,39,none,own,2,management,2,yes,yes
+unknown,18,very good,car,6458.00 ,< 100 DM,> 7 years,2,4,39,bank,own,2,management,2,yes,yes
+1 - 200 DM,12,good,car,6078.00 ,< 100 DM,4 - 7 years,2,2,32,none,own,1,skilled,1,no,no
+< 0 DM,24,good,furniture/appliances,7721.00 ,unknown,< 1 year,1,2,30,none,own,1,skilled,1,yes,no
+1 - 200 DM,14,good,business,1410.00 ,500 - 1000 DM,> 7 years,1,2,35,none,own,1,skilled,1,yes,no
+1 - 200 DM,6,poor,business,1449.00 ,100 - 500 DM,> 7 years,1,2,31,bank,own,2,skilled,2,no,no
+> 200 DM,15,good,education,392.00 ,< 100 DM,< 1 year,4,4,23,none,rent,1,skilled,1,yes,no
+1 - 200 DM,18,good,car,6260.00 ,< 100 DM,4 - 7 years,3,3,28,none,rent,1,unskilled,1,no,no
+unknown,36,critical,car,7855.00 ,< 100 DM,1 - 4 years,4,2,25,store,own,2,skilled,1,yes,yes
+< 0 DM,12,good,furniture/appliances,1680.00 ,500 - 1000 DM,> 7 years,3,1,35,none,own,1,skilled,1,no,no
+unknown,48,critical,furniture/appliances,3578.00 ,unknown,> 7 years,4,1,47,none,own,1,skilled,1,yes,no
+< 0 DM,42,good,furniture/appliances,7174.00 ,unknown,4 - 7 years,4,3,30,none,own,1,management,1,yes,yes
+< 0 DM,10,critical,furniture/appliances,2132.00 ,unknown,< 1 year,2,3,27,none,rent,2,skilled,1,no,no
+< 0 DM,33,critical,furniture/appliances,4281.00 ,500 - 1000 DM,1 - 4 years,1,4,23,none,own,2,skilled,1,no,yes
+1 - 200 DM,12,critical,car,2366.00 ,500 - 1000 DM,4 - 7 years,3,3,36,none,own,1,management,1,yes,no
+< 0 DM,21,good,furniture/appliances,1835.00 ,< 100 DM,1 - 4 years,3,2,25,none,own,2,skilled,1,yes,yes
+unknown,24,critical,car,3868.00 ,< 100 DM,> 7 years,4,2,41,none,rent,2,management,1,yes,no
+unknown,12,good,furniture/appliances,1768.00 ,< 100 DM,1 - 4 years,3,2,24,none,rent,1,unskilled,1,no,no
+> 200 DM,10,critical,car,781.00 ,< 100 DM,> 7 years,4,4,63,none,other,2,skilled,1,yes,no
+1 - 200 DM,18,good,furniture/appliances,1924.00 ,unknown,< 1 year,4,3,27,none,rent,1,skilled,1,no,yes
+< 0 DM,12,critical,car,2121.00 ,< 100 DM,1 - 4 years,4,2,30,none,own,2,skilled,1,no,no
+< 0 DM,12,good,furniture/appliances,701.00 ,< 100 DM,1 - 4 years,4,2,40,none,own,1,unskilled,1,no,no
+1 - 200 DM,12,good,renovations,639.00 ,< 100 DM,1 - 4 years,4,2,30,none,own,1,skilled,1,no,yes
+1 - 200 DM,12,critical,car,1860.00 ,< 100 DM,unemployed,4,2,34,none,own,2,management,1,yes,no
+< 0 DM,12,critical,car,3499.00 ,< 100 DM,1 - 4 years,3,2,29,none,own,2,skilled,1,no,yes
+1 - 200 DM,48,good,car,8487.00 ,unknown,4 - 7 years,1,2,24,none,own,1,skilled,1,no,no
+< 0 DM,36,poor,education,6887.00 ,< 100 DM,1 - 4 years,4,3,29,store,own,1,skilled,1,yes,yes
+unknown,15,good,furniture/appliances,2708.00 ,< 100 DM,< 1 year,2,3,27,bank,own,2,unskilled,1,no,no
+unknown,18,good,furniture/appliances,1984.00 ,< 100 DM,1 - 4 years,4,4,47,bank,other,2,skilled,1,no,no
+unknown,60,good,furniture/appliances,10144.00 ,100 - 500 DM,4 - 7 years,2,4,21,none,own,1,skilled,1,yes,no
+unknown,12,critical,furniture/appliances,1240.00 ,unknown,> 7 years,4,2,38,none,own,2,skilled,1,yes,no
+unknown,27,poor,car,8613.00 ,> 1000 DM,1 - 4 years,2,2,27,none,own,2,skilled,1,no,no
+1 - 200 DM,12,good,furniture/appliances,766.00 ,500 - 1000 DM,1 - 4 years,4,3,66,none,own,1,unskilled,1,no,yes
+1 - 200 DM,15,critical,furniture/appliances,2728.00 ,unknown,4 - 7 years,4,2,35,bank,own,3,skilled,1,yes,no
+> 200 DM,12,good,furniture/appliances,1881.00 ,< 100 DM,1 - 4 years,2,2,44,none,rent,1,unskilled,1,yes,no
+> 200 DM,6,good,car,709.00 ,> 1000 DM,< 1 year,2,2,27,none,own,1,unemployed,1,no,no
+1 - 200 DM,36,good,furniture/appliances,4795.00 ,< 100 DM,< 1 year,4,1,30,none,own,1,management,1,yes,no
+< 0 DM,27,good,furniture/appliances,3416.00 ,< 100 DM,1 - 4 years,3,2,27,none,own,1,management,1,no,no
+< 0 DM,18,good,furniture/appliances,2462.00 ,< 100 DM,1 - 4 years,2,2,22,none,own,1,skilled,1,no,yes
+unknown,21,critical,furniture/appliances,2288.00 ,< 100 DM,< 1 year,4,4,23,none,own,1,skilled,1,yes,no
+1 - 200 DM,48,very good,business,3566.00 ,100 - 500 DM,4 - 7 years,4,2,30,none,own,1,skilled,1,no,no
+< 0 DM,6,critical,car,860.00 ,< 100 DM,> 7 years,1,4,39,none,own,2,skilled,1,yes,no
+unknown,12,critical,car,682.00 ,100 - 500 DM,4 - 7 years,4,3,51,none,own,2,skilled,1,yes,no
+< 0 DM,36,critical,furniture/appliances,5371.00 ,< 100 DM,1 - 4 years,3,2,28,none,own,2,skilled,1,no,no
+unknown,18,critical,furniture/appliances,1582.00 ,> 1000 DM,> 7 years,4,4,46,none,own,2,skilled,1,no,no
+unknown,6,good,furniture/appliances,1346.00 ,100 - 500 DM,> 7 years,2,4,42,bank,other,1,skilled,2,yes,no
+unknown,10,good,furniture/appliances,1924.00 ,< 100 DM,1 - 4 years,1,4,38,none,own,1,skilled,1,yes,no
+> 200 DM,36,good,furniture/appliances,5848.00 ,< 100 DM,1 - 4 years,4,1,24,none,own,1,skilled,1,no,no
+1 - 200 DM,24,critical,car,7758.00 ,> 1000 DM,> 7 years,2,4,29,none,rent,1,skilled,1,no,no
+1 - 200 DM,24,poor,business,6967.00 ,100 - 500 DM,4 - 7 years,4,4,36,none,rent,1,management,1,yes,no
+< 0 DM,12,good,furniture/appliances,1282.00 ,< 100 DM,1 - 4 years,2,4,20,none,rent,1,skilled,1,no,yes
+< 0 DM,9,critical,renovations,1288.00 ,100 - 500 DM,> 7 years,3,4,48,none,own,2,skilled,2,no,no
+< 0 DM,12,very good,education,339.00 ,< 100 DM,> 7 years,4,1,45,bank,own,1,unskilled,1,no,no
+1 - 200 DM,24,good,car,3512.00 ,100 - 500 DM,4 - 7 years,2,3,38,bank,own,2,skilled,1,yes,no
+unknown,6,critical,furniture/appliances,1898.00 ,unknown,1 - 4 years,1,2,34,none,own,2,unskilled,2,no,no
+unknown,24,critical,furniture/appliances,2872.00 ,100 - 500 DM,> 7 years,3,4,36,none,own,1,skilled,2,yes,no
+unknown,18,critical,car,1055.00 ,< 100 DM,< 1 year,4,1,30,none,own,2,skilled,1,no,no
+unknown,15,good,furniture/appliances,1262.00 ,500 - 1000 DM,4 - 7 years,4,3,36,none,own,2,skilled,1,yes,no
+1 - 200 DM,10,good,car,7308.00 ,< 100 DM,unemployed,2,4,70,bank,other,1,management,1,yes,no
+unknown,36,good,car,909.00 ,500 - 1000 DM,> 7 years,4,4,36,none,own,1,skilled,1,no,no
+unknown,6,good,furniture/appliances,2978.00 ,500 - 1000 DM,1 - 4 years,1,2,32,none,own,1,skilled,1,yes,no
+< 0 DM,18,good,furniture/appliances,1131.00 ,< 100 DM,unemployed,4,2,33,none,own,1,skilled,1,no,yes
+1 - 200 DM,11,good,furniture/appliances,1577.00 ,> 1000 DM,< 1 year,4,1,20,none,own,1,skilled,1,no,no
+unknown,24,good,furniture/appliances,3972.00 ,< 100 DM,4 - 7 years,2,4,25,none,rent,1,skilled,1,yes,no
+1 - 200 DM,24,critical,business,1935.00 ,< 100 DM,> 7 years,4,4,31,none,own,2,skilled,1,yes,yes
+< 0 DM,15,perfect,car,950.00 ,< 100 DM,> 7 years,4,3,33,none,rent,2,skilled,2,no,yes
+unknown,12,good,furniture/appliances,763.00 ,< 100 DM,1 - 4 years,4,1,26,none,own,1,skilled,1,yes,no
+1 - 200 DM,24,poor,furniture/appliances,2064.00 ,< 100 DM,unemployed,3,2,34,none,own,1,management,1,yes,yes
+1 - 200 DM,8,good,furniture/appliances,1414.00 ,< 100 DM,1 - 4 years,4,2,33,none,own,1,skilled,1,no,no
+< 0 DM,21,poor,education,3414.00 ,< 100 DM,< 1 year,2,1,26,none,own,2,skilled,1,no,yes
+unknown,30,very good,car,7485.00 ,unknown,unemployed,4,1,53,bank,own,1,management,1,yes,yes
+< 0 DM,12,good,furniture/appliances,2577.00 ,< 100 DM,1 - 4 years,2,1,42,none,own,1,skilled,1,no,no
+< 0 DM,6,critical,furniture/appliances,338.00 ,500 - 1000 DM,> 7 years,4,4,52,none,own,2,skilled,1,no,no
+unknown,12,good,furniture/appliances,1963.00 ,< 100 DM,4 - 7 years,4,2,31,none,rent,2,management,2,yes,no
+< 0 DM,21,critical,car,571.00 ,< 100 DM,> 7 years,4,4,65,none,own,2,skilled,1,no,no
+unknown,36,poor,business,9572.00 ,< 100 DM,< 1 year,1,1,28,none,own,2,skilled,1,no,yes
+1 - 200 DM,36,poor,business,4455.00 ,< 100 DM,1 - 4 years,2,2,30,store,own,2,management,1,yes,yes
+< 0 DM,21,very good,car,1647.00 ,unknown,1 - 4 years,4,2,40,none,own,2,unskilled,2,no,yes
+unknown,24,critical,furniture/appliances,3777.00 ,> 1000 DM,1 - 4 years,4,4,50,none,own,1,skilled,1,yes,no
+1 - 200 DM,18,critical,car,884.00 ,< 100 DM,> 7 years,4,4,36,bank,own,1,skilled,2,yes,yes
+unknown,15,critical,furniture/appliances,1360.00 ,< 100 DM,1 - 4 years,4,2,31,none,own,2,skilled,1,no,no
+1 - 200 DM,9,very good,car,5129.00 ,< 100 DM,> 7 years,2,4,74,bank,other,1,management,2,yes,yes
+1 - 200 DM,16,critical,car,1175.00 ,< 100 DM,unemployed,2,3,68,none,other,3,unemployed,1,yes,no
+< 0 DM,12,good,furniture/appliances,674.00 ,100 - 500 DM,4 - 7 years,4,1,20,none,own,1,skilled,1,no,yes
+1 - 200 DM,18,perfect,furniture/appliances,3244.00 ,< 100 DM,1 - 4 years,1,4,33,bank,own,2,skilled,1,yes,no
+unknown,24,good,business,4591.00 ,> 1000 DM,1 - 4 years,2,3,54,none,own,3,management,1,yes,yes
+1 - 200 DM,48,perfect,business,3844.00 ,100 - 500 DM,4 - 7 years,4,4,34,none,other,1,unskilled,2,no,yes
+1 - 200 DM,27,good,business,3915.00 ,< 100 DM,1 - 4 years,4,2,36,none,own,1,skilled,2,yes,yes
+unknown,6,good,furniture/appliances,2108.00 ,< 100 DM,4 - 7 years,2,2,29,none,rent,1,skilled,1,no,no
+1 - 200 DM,45,good,furniture/appliances,3031.00 ,100 - 500 DM,1 - 4 years,4,4,21,none,rent,1,skilled,1,no,yes
+1 - 200 DM,9,critical,education,1501.00 ,< 100 DM,> 7 years,2,3,34,none,own,2,management,1,yes,yes
+unknown,6,critical,furniture/appliances,1382.00 ,< 100 DM,1 - 4 years,1,1,28,none,own,2,skilled,1,yes,no
+1 - 200 DM,12,good,furniture/appliances,951.00 ,100 - 500 DM,< 1 year,4,4,27,bank,rent,4,skilled,1,no,yes
+1 - 200 DM,24,good,car,2760.00 ,unknown,> 7 years,4,4,36,bank,other,1,skilled,1,yes,no
+1 - 200 DM,18,poor,furniture/appliances,4297.00 ,< 100 DM,> 7 years,4,3,40,none,own,1,management,1,yes,yes
+unknown,9,critical,education,936.00 ,500 - 1000 DM,> 7 years,4,2,52,none,own,2,skilled,1,yes,no
+< 0 DM,12,good,car,1168.00 ,< 100 DM,1 - 4 years,4,3,27,none,own,1,unskilled,1,no,no
+unknown,27,poor,business,5117.00 ,< 100 DM,4 - 7 years,3,4,26,none,own,2,skilled,1,no,no
+< 0 DM,12,good,education,902.00 ,< 100 DM,4 - 7 years,4,4,21,none,rent,1,skilled,1,no,yes
+unknown,12,critical,car,1495.00 ,< 100 DM,> 7 years,4,1,38,none,own,2,unskilled,2,no,no
+< 0 DM,30,critical,car,10623.00 ,< 100 DM,> 7 years,3,4,38,none,other,3,management,2,yes,no
+unknown,12,critical,furniture/appliances,1935.00 ,< 100 DM,> 7 years,4,4,43,none,own,3,skilled,1,yes,no
+1 - 200 DM,12,critical,furniture/appliances,1424.00 ,< 100 DM,4 - 7 years,4,3,26,none,own,1,skilled,1,no,no
+< 0 DM,24,good,business,6568.00 ,< 100 DM,1 - 4 years,2,2,21,store,own,1,unskilled,1,no,no
+unknown,12,good,car,1413.00 ,> 1000 DM,4 - 7 years,3,2,55,none,own,1,skilled,1,no,no
+unknown,9,critical,furniture/appliances,3074.00 ,unknown,1 - 4 years,1,2,33,none,own,2,skilled,2,no,no
+unknown,36,good,furniture/appliances,3835.00 ,unknown,> 7 years,2,4,45,none,own,1,unskilled,1,yes,no
+< 0 DM,27,perfect,business,5293.00 ,< 100 DM,unemployed,2,4,50,store,own,2,skilled,1,yes,yes
+> 200 DM,30,poor,business,1908.00 ,< 100 DM,> 7 years,4,4,66,none,own,1,management,1,yes,yes
+unknown,36,critical,furniture/appliances,3342.00 ,unknown,> 7 years,4,2,51,none,own,1,skilled,1,yes,no
+1 - 200 DM,6,critical,education,932.00 ,unknown,4 - 7 years,1,3,39,none,own,2,unskilled,1,no,no
+< 0 DM,18,perfect,business,3104.00 ,< 100 DM,4 - 7 years,3,1,31,bank,own,1,skilled,1,yes,no
+> 200 DM,36,good,furniture/appliances,3913.00 ,< 100 DM,1 - 4 years,2,2,23,none,own,1,skilled,1,yes,no
+< 0 DM,24,good,furniture/appliances,3021.00 ,< 100 DM,1 - 4 years,2,2,24,none,rent,1,unskilled,1,no,no
+unknown,10,good,car,1364.00 ,< 100 DM,1 - 4 years,2,4,64,none,own,1,skilled,1,yes,no
+1 - 200 DM,12,good,furniture/appliances,625.00 ,< 100 DM,< 1 year,4,1,26,bank,own,1,unskilled,1,no,no
+< 0 DM,12,good,education,1200.00 ,unknown,1 - 4 years,4,4,23,bank,rent,1,skilled,1,yes,no
+unknown,12,good,furniture/appliances,707.00 ,< 100 DM,1 - 4 years,4,2,30,bank,own,2,skilled,1,no,no
+unknown,24,poor,business,2978.00 ,unknown,1 - 4 years,4,4,32,none,own,2,skilled,2,yes,no
+unknown,15,good,car,4657.00 ,< 100 DM,1 - 4 years,3,2,30,none,own,1,skilled,1,yes,no
+unknown,36,perfect,renovations,2613.00 ,< 100 DM,1 - 4 years,4,2,27,none,own,2,skilled,1,no,no
+1 - 200 DM,48,good,furniture/appliances,10961.00 ,> 1000 DM,4 - 7 years,1,2,27,bank,own,2,skilled,1,yes,yes
+< 0 DM,12,good,furniture/appliances,7865.00 ,< 100 DM,> 7 years,4,4,53,none,other,1,management,1,yes,yes
+unknown,9,good,furniture/appliances,1478.00 ,< 100 DM,4 - 7 years,4,2,22,none,own,1,skilled,1,no,yes
+< 0 DM,24,good,furniture/appliances,3149.00 ,< 100 DM,< 1 year,4,1,22,bank,other,1,skilled,1,no,no
+> 200 DM,36,good,furniture/appliances,4210.00 ,< 100 DM,1 - 4 years,4,2,26,none,own,1,skilled,1,no,yes
+unknown,9,good,car,2507.00 ,500 - 1000 DM,> 7 years,2,4,51,none,other,1,unskilled,1,no,no
+unknown,12,good,furniture/appliances,2141.00 ,100 - 500 DM,4 - 7 years,3,1,35,none,own,1,skilled,1,no,no
+1 - 200 DM,18,good,furniture/appliances,866.00 ,< 100 DM,1 - 4 years,4,2,25,none,own,1,unskilled,1,no,no
+unknown,4,critical,furniture/appliances,1544.00 ,< 100 DM,4 - 7 years,2,1,42,none,own,3,unskilled,2,no,no
+< 0 DM,24,good,furniture/appliances,1823.00 ,< 100 DM,unemployed,4,2,30,store,own,1,management,2,no,yes
+1 - 200 DM,6,good,car,14555.00 ,unknown,unemployed,1,2,23,none,own,1,unemployed,1,yes,yes
+1 - 200 DM,21,good,business,2767.00 ,100 - 500 DM,> 7 years,4,2,61,bank,rent,2,unskilled,1,no,yes
+unknown,12,critical,furniture/appliances,1291.00 ,< 100 DM,1 - 4 years,4,2,35,none,own,2,skilled,1,no,no
+< 0 DM,30,good,furniture/appliances,2522.00 ,< 100 DM,> 7 years,1,3,39,none,own,1,skilled,2,no,no
+< 0 DM,24,good,car,915.00 ,unknown,> 7 years,4,2,29,bank,own,1,skilled,1,no,yes
+unknown,6,good,furniture/appliances,1595.00 ,< 100 DM,4 - 7 years,3,2,51,none,own,1,skilled,2,no,no
+< 0 DM,48,perfect,car,4605.00 ,< 100 DM,> 7 years,3,4,24,none,other,2,skilled,2,no,yes
+unknown,12,critical,business,1185.00 ,< 100 DM,1 - 4 years,3,2,27,none,own,2,skilled,1,no,no
+unknown,12,very good,education,3447.00 ,500 - 1000 DM,1 - 4 years,4,3,35,none,own,1,unskilled,2,no,no
+unknown,24,good,business,1258.00 ,< 100 DM,4 - 7 years,4,1,25,none,own,1,skilled,1,yes,no
+unknown,12,critical,furniture/appliances,717.00 ,< 100 DM,> 7 years,4,4,52,none,own,3,skilled,1,no,no
+unknown,6,perfect,car,1204.00 ,100 - 500 DM,1 - 4 years,4,1,35,bank,rent,1,skilled,1,no,no
+> 200 DM,24,good,furniture/appliances,1925.00 ,< 100 DM,1 - 4 years,2,2,26,none,own,1,skilled,1,no,no
+unknown,18,good,furniture/appliances,433.00 ,< 100 DM,unemployed,3,4,22,none,rent,1,skilled,1,no,yes
+< 0 DM,6,critical,car,666.00 ,> 1000 DM,4 - 7 years,3,4,39,none,own,2,unskilled,1,yes,no
+> 200 DM,12,good,furniture/appliances,2251.00 ,< 100 DM,1 - 4 years,1,2,46,none,own,1,unskilled,1,no,no
+1 - 200 DM,30,good,car,2150.00 ,< 100 DM,1 - 4 years,4,2,24,bank,own,1,skilled,1,no,yes
+unknown,24,poor,furniture/appliances,4151.00 ,100 - 500 DM,1 - 4 years,2,3,35,none,own,2,skilled,1,no,no
+1 - 200 DM,9,good,furniture/appliances,2030.00 ,unknown,4 - 7 years,2,1,24,none,own,1,skilled,1,yes,no
+1 - 200 DM,60,poor,furniture/appliances,7418.00 ,unknown,1 - 4 years,1,1,27,none,own,1,unskilled,1,no,no
+unknown,24,critical,furniture/appliances,2684.00 ,< 100 DM,1 - 4 years,4,2,35,none,own,2,unskilled,1,no,no
+< 0 DM,12,very good,furniture/appliances,2149.00 ,< 100 DM,1 - 4 years,4,1,29,none,other,1,skilled,1,no,yes
+unknown,15,good,car,3812.00 ,100 - 500 DM,< 1 year,1,4,23,none,own,1,skilled,1,yes,no
+unknown,11,critical,furniture/appliances,1154.00 ,100 - 500 DM,unemployed,4,4,57,none,own,3,unskilled,1,no,no
+< 0 DM,12,good,furniture/appliances,1657.00 ,< 100 DM,1 - 4 years,2,2,27,none,own,1,skilled,1,no,no
+< 0 DM,24,good,furniture/appliances,1603.00 ,< 100 DM,> 7 years,4,4,55,none,own,1,skilled,1,no,no
+< 0 DM,18,critical,car,5302.00 ,< 100 DM,> 7 years,2,4,36,none,other,3,management,1,yes,no
+unknown,12,critical,education,2748.00 ,< 100 DM,> 7 years,2,4,57,bank,other,3,unskilled,1,no,no
+unknown,10,critical,car,1231.00 ,< 100 DM,> 7 years,3,4,32,none,own,2,unskilled,2,no,no
+1 - 200 DM,15,good,furniture/appliances,802.00 ,< 100 DM,> 7 years,4,3,37,none,own,1,skilled,2,no,yes
+unknown,36,critical,business,6304.00 ,unknown,> 7 years,4,4,36,none,own,2,skilled,1,no,no
+unknown,24,good,furniture/appliances,1533.00 ,< 100 DM,< 1 year,4,3,38,store,own,1,skilled,1,yes,no
+< 0 DM,14,good,car,8978.00 ,< 100 DM,> 7 years,1,4,45,none,own,1,management,1,yes,yes
+unknown,24,good,furniture/appliances,999.00 ,unknown,> 7 years,4,2,25,none,own,2,skilled,1,no,no
+unknown,18,good,car,2662.00 ,unknown,4 - 7 years,4,3,32,none,own,1,skilled,1,no,no
+unknown,12,critical,furniture/appliances,1402.00 ,500 - 1000 DM,4 - 7 years,3,4,37,none,rent,1,skilled,1,yes,no
+1 - 200 DM,48,very good,car,12169.00 ,unknown,unemployed,4,4,36,none,other,1,management,1,yes,no
+1 - 200 DM,48,good,furniture/appliances,3060.00 ,< 100 DM,4 - 7 years,4,4,28,none,own,2,skilled,1,no,yes
+< 0 DM,30,good,renovations,11998.00 ,< 100 DM,< 1 year,1,1,34,none,own,1,unskilled,1,yes,yes
+unknown,9,good,furniture/appliances,2697.00 ,< 100 DM,1 - 4 years,1,2,32,none,own,1,skilled,2,no,no
+unknown,18,critical,furniture/appliances,2404.00 ,< 100 DM,1 - 4 years,2,2,26,none,own,2,skilled,1,no,no
+< 0 DM,12,good,furniture/appliances,1262.00 ,unknown,> 7 years,2,4,49,none,own,1,unskilled,1,yes,no
+unknown,6,good,furniture/appliances,4611.00 ,< 100 DM,< 1 year,1,4,32,none,own,1,skilled,1,no,yes
+unknown,24,good,furniture/appliances,1901.00 ,100 - 500 DM,1 - 4 years,4,4,29,none,rent,1,management,1,yes,no
+unknown,15,critical,car,3368.00 ,> 1000 DM,> 7 years,3,4,23,none,rent,2,skilled,1,yes,no
+unknown,12,good,furniture/appliances,1574.00 ,< 100 DM,1 - 4 years,4,2,50,none,own,1,skilled,1,no,no
+> 200 DM,18,very good,furniture/appliances,1445.00 ,unknown,4 - 7 years,4,4,49,bank,own,1,unskilled,1,no,no
+unknown,15,critical,furniture/appliances,1520.00 ,unknown,> 7 years,4,4,63,none,own,1,skilled,1,no,no
+1 - 200 DM,24,critical,car,3878.00 ,100 - 500 DM,< 1 year,4,2,37,none,own,1,skilled,1,yes,no
+< 0 DM,47,good,car,10722.00 ,< 100 DM,< 1 year,1,1,35,none,own,1,unskilled,1,yes,no
+< 0 DM,48,good,car,4788.00 ,< 100 DM,4 - 7 years,4,3,26,none,own,1,skilled,2,no,no
+1 - 200 DM,48,poor,car0,7582.00 ,100 - 500 DM,unemployed,2,4,31,none,other,1,management,1,yes,no
+1 - 200 DM,12,good,furniture/appliances,1092.00 ,< 100 DM,1 - 4 years,4,4,49,none,own,2,skilled,1,yes,no
+< 0 DM,24,poor,furniture/appliances,1024.00 ,< 100 DM,< 1 year,4,4,48,store,own,1,skilled,1,no,yes
+unknown,12,good,business,1076.00 ,< 100 DM,1 - 4 years,2,2,26,none,own,1,skilled,1,yes,no
+1 - 200 DM,36,good,car,9398.00 ,< 100 DM,< 1 year,1,4,28,none,rent,1,management,1,yes,yes
+< 0 DM,24,critical,car,6419.00 ,< 100 DM,> 7 years,2,4,44,none,other,2,management,2,yes,no
+> 200 DM,42,critical,car,4796.00 ,< 100 DM,> 7 years,4,4,56,none,other,1,skilled,1,no,no
+unknown,48,critical,business,7629.00 ,unknown,> 7 years,4,2,46,bank,own,2,management,2,no,no
+1 - 200 DM,48,good,furniture/appliances,9960.00 ,< 100 DM,< 1 year,1,2,26,none,own,1,skilled,1,yes,yes
+unknown,12,good,car,4675.00 ,unknown,< 1 year,1,4,20,none,rent,1,skilled,1,no,no
+unknown,10,good,car,1287.00 ,unknown,> 7 years,4,2,45,none,own,1,unskilled,1,no,no
+unknown,18,good,furniture/appliances,2515.00 ,< 100 DM,1 - 4 years,3,4,43,none,own,1,skilled,1,yes,no
+1 - 200 DM,21,critical,furniture/appliances,2745.00 ,> 1000 DM,4 - 7 years,3,2,32,none,own,2,skilled,1,yes,no
+unknown,6,good,car,672.00 ,< 100 DM,unemployed,1,4,54,none,own,1,unemployed,1,yes,no
+1 - 200 DM,36,perfect,furniture/appliances,3804.00 ,< 100 DM,1 - 4 years,4,1,42,none,own,1,skilled,1,yes,yes
+> 200 DM,24,critical,car,1344.00 ,unknown,4 - 7 years,4,2,37,bank,own,2,unskilled,2,no,yes
+< 0 DM,10,critical,car,1038.00 ,< 100 DM,4 - 7 years,4,3,49,none,own,2,skilled,1,yes,no
+unknown,48,critical,car,10127.00 ,500 - 1000 DM,1 - 4 years,2,2,44,bank,other,1,skilled,1,no,yes
+unknown,6,good,furniture/appliances,1543.00 ,> 1000 DM,1 - 4 years,4,2,33,none,own,1,skilled,1,no,no
+unknown,30,good,car,4811.00 ,unknown,4 - 7 years,2,4,24,store,rent,1,unskilled,1,no,no
+< 0 DM,12,good,furniture/appliances,727.00 ,100 - 500 DM,< 1 year,4,3,33,none,own,1,unskilled,1,yes,yes
+1 - 200 DM,8,good,furniture/appliances,1237.00 ,< 100 DM,1 - 4 years,3,4,24,none,own,1,skilled,1,no,yes
+1 - 200 DM,9,good,car,276.00 ,< 100 DM,1 - 4 years,4,4,22,none,rent,1,unskilled,1,no,no
+1 - 200 DM,48,good,car0,5381.00 ,unknown,unemployed,3,4,40,bank,other,1,unemployed,1,yes,no
+unknown,24,good,furniture/appliances,5511.00 ,100 - 500 DM,1 - 4 years,4,1,25,store,own,1,skilled,1,no,no
+> 200 DM,24,good,furniture/appliances,3749.00 ,< 100 DM,< 1 year,2,4,26,none,own,1,skilled,1,no,no
+1 - 200 DM,12,good,car,685.00 ,< 100 DM,4 - 7 years,2,3,25,bank,own,1,unskilled,1,no,yes
+> 200 DM,4,good,car,1494.00 ,unknown,< 1 year,1,2,29,none,own,1,unskilled,2,no,no
+< 0 DM,36,very good,furniture/appliances,2746.00 ,< 100 DM,> 7 years,4,4,31,bank,own,1,skilled,1,no,yes
+< 0 DM,12,good,furniture/appliances,708.00 ,< 100 DM,1 - 4 years,2,3,38,none,own,1,unskilled,2,no,no
+1 - 200 DM,24,good,furniture/appliances,4351.00 ,unknown,1 - 4 years,1,4,48,none,own,1,unskilled,1,yes,no
+unknown,12,critical,education,701.00 ,< 100 DM,1 - 4 years,4,2,32,none,own,2,skilled,1,no,no
+< 0 DM,15,poor,furniture/appliances,3643.00 ,< 100 DM,> 7 years,1,4,27,none,own,2,unskilled,1,no,no
+1 - 200 DM,30,critical,car,4249.00 ,< 100 DM,unemployed,4,2,28,none,own,2,management,1,no,yes
+< 0 DM,24,good,furniture/appliances,1938.00 ,< 100 DM,< 1 year,4,3,32,none,own,1,skilled,1,no,yes
+< 0 DM,24,good,car,2910.00 ,< 100 DM,4 - 7 years,2,1,34,none,other,1,management,1,yes,no
+< 0 DM,18,good,furniture/appliances,2659.00 ,> 1000 DM,1 - 4 years,4,2,28,none,own,1,skilled,1,no,no
+unknown,18,critical,car,1028.00 ,< 100 DM,1 - 4 years,4,3,36,none,own,2,skilled,1,no,no
+< 0 DM,8,critical,car,3398.00 ,< 100 DM,4 - 7 years,1,4,39,none,own,2,unskilled,1,no,no
+unknown,12,critical,furniture/appliances,5801.00 ,unknown,> 7 years,2,4,49,none,rent,1,skilled,1,yes,no
+unknown,24,good,car,1525.00 ,> 1000 DM,4 - 7 years,4,3,34,none,own,1,skilled,2,yes,no
+> 200 DM,36,good,furniture/appliances,4473.00 ,< 100 DM,> 7 years,4,2,31,none,own,1,skilled,1,no,no
+1 - 200 DM,6,good,furniture/appliances,1068.00 ,< 100 DM,> 7 years,4,4,28,none,own,1,skilled,2,no,no
+< 0 DM,24,critical,car,6615.00 ,< 100 DM,unemployed,2,4,75,none,other,2,management,1,yes,no
+unknown,18,critical,education,1864.00 ,100 - 500 DM,1 - 4 years,4,2,30,none,own,2,skilled,1,no,yes
+1 - 200 DM,60,good,car,7408.00 ,100 - 500 DM,< 1 year,4,2,24,none,own,1,management,1,no,yes
+unknown,48,critical,car,11590.00 ,100 - 500 DM,1 - 4 years,2,4,24,bank,rent,2,unskilled,1,no,yes
+< 0 DM,24,perfect,furniture/appliances,4110.00 ,< 100 DM,> 7 years,3,4,23,bank,rent,2,skilled,2,no,yes
+< 0 DM,6,critical,furniture/appliances,3384.00 ,< 100 DM,1 - 4 years,1,4,44,none,rent,1,management,1,yes,yes
+1 - 200 DM,13,good,furniture/appliances,2101.00 ,< 100 DM,< 1 year,2,4,23,none,own,1,unskilled,1,no,no
+< 0 DM,15,good,furniture/appliances,1275.00 ,unknown,1 - 4 years,4,2,24,none,rent,1,skilled,1,no,yes
+< 0 DM,24,good,furniture/appliances,4169.00 ,< 100 DM,1 - 4 years,4,4,28,none,own,1,skilled,1,no,no
+1 - 200 DM,10,good,furniture/appliances,1521.00 ,< 100 DM,1 - 4 years,4,2,31,none,own,1,unskilled,1,no,no
+1 - 200 DM,24,critical,education,5743.00 ,< 100 DM,< 1 year,2,4,24,none,other,2,skilled,1,yes,no
+< 0 DM,21,good,furniture/appliances,3599.00 ,< 100 DM,4 - 7 years,1,4,26,none,rent,1,unskilled,1,no,no
+1 - 200 DM,18,good,furniture/appliances,3213.00 ,500 - 1000 DM,< 1 year,1,3,25,none,rent,1,skilled,1,no,no
+1 - 200 DM,18,good,business,4439.00 ,< 100 DM,> 7 years,1,1,33,bank,own,1,management,1,yes,no
+> 200 DM,10,good,car,3949.00 ,< 100 DM,< 1 year,1,1,37,none,own,1,unskilled,2,no,no
+unknown,15,critical,furniture/appliances,1459.00 ,< 100 DM,1 - 4 years,4,2,43,none,own,1,unskilled,1,no,no
+1 - 200 DM,13,critical,furniture/appliances,882.00 ,< 100 DM,< 1 year,4,4,23,none,own,2,skilled,1,no,no
+1 - 200 DM,24,good,furniture/appliances,3758.00 ,500 - 1000 DM,unemployed,1,4,23,none,rent,1,unemployed,1,no,no
+unknown,6,poor,business,1743.00 ,100 - 500 DM,1 - 4 years,1,2,34,none,own,2,unskilled,1,no,no
+1 - 200 DM,9,critical,education,1136.00 ,> 1000 DM,> 7 years,4,3,32,none,other,2,skilled,2,no,yes
+unknown,9,good,furniture/appliances,1236.00 ,< 100 DM,< 1 year,1,4,23,none,rent,1,skilled,1,yes,no
+1 - 200 DM,9,good,furniture/appliances,959.00 ,< 100 DM,1 - 4 years,1,2,29,none,own,1,skilled,1,no,yes
+unknown,18,critical,car,3229.00 ,unknown,unemployed,2,4,38,none,own,1,management,1,yes,no
+< 0 DM,12,perfect,furniture/appliances,6199.00 ,< 100 DM,1 - 4 years,4,2,28,none,rent,2,skilled,1,yes,yes
+unknown,10,good,education,727.00 ,500 - 1000 DM,> 7 years,4,4,46,none,other,1,skilled,1,yes,no
+1 - 200 DM,24,good,car,1246.00 ,< 100 DM,< 1 year,4,2,23,store,own,1,unskilled,1,no,yes
+unknown,12,critical,furniture/appliances,2331.00 ,unknown,> 7 years,1,4,49,none,own,1,skilled,1,yes,no
+unknown,36,poor,furniture/appliances,4463.00 ,< 100 DM,1 - 4 years,4,2,26,none,own,2,management,1,yes,yes
+unknown,12,good,furniture/appliances,776.00 ,< 100 DM,1 - 4 years,4,2,28,none,own,1,skilled,1,no,no
+< 0 DM,30,good,furniture/appliances,2406.00 ,< 100 DM,4 - 7 years,4,4,23,none,rent,1,skilled,1,no,yes
+1 - 200 DM,18,good,education,1239.00 ,unknown,1 - 4 years,4,4,61,none,other,1,skilled,1,no,no
+> 200 DM,12,good,furniture/appliances,3399.00 ,unknown,> 7 years,2,3,37,none,own,1,management,1,no,no
+> 200 DM,12,poor,car,2247.00 ,< 100 DM,1 - 4 years,2,2,36,store,own,2,skilled,1,yes,no
+unknown,6,good,furniture/appliances,1766.00 ,< 100 DM,1 - 4 years,1,2,21,none,rent,1,skilled,1,no,no
+< 0 DM,18,good,furniture/appliances,2473.00 ,< 100 DM,unemployed,4,1,25,none,own,1,unemployed,1,no,yes
+unknown,12,good,business,1542.00 ,< 100 DM,4 - 7 years,2,4,36,none,own,1,skilled,1,yes,no
+unknown,18,critical,car,3850.00 ,< 100 DM,4 - 7 years,3,1,27,none,own,2,skilled,1,no,no
+< 0 DM,18,good,furniture/appliances,3650.00 ,< 100 DM,< 1 year,1,4,22,none,rent,1,skilled,1,no,no
+< 0 DM,36,good,furniture/appliances,3446.00 ,< 100 DM,> 7 years,4,2,42,none,own,1,skilled,2,no,yes
+1 - 200 DM,18,good,furniture/appliances,3001.00 ,< 100 DM,4 - 7 years,2,4,40,none,rent,1,skilled,1,no,no
+unknown,36,good,car,3079.00 ,unknown,1 - 4 years,4,4,36,none,own,1,skilled,1,no,no
+unknown,18,critical,furniture/appliances,6070.00 ,< 100 DM,> 7 years,3,4,33,none,own,2,skilled,1,yes,no
+unknown,10,critical,furniture/appliances,2146.00 ,< 100 DM,< 1 year,1,3,23,none,rent,2,skilled,1,no,no
+unknown,60,critical,car,13756.00 ,unknown,> 7 years,2,4,63,bank,other,1,management,1,yes,no
+1 - 200 DM,60,very good,car0,14782.00 ,100 - 500 DM,> 7 years,3,4,60,bank,other,2,management,1,yes,yes
+< 0 DM,48,very good,business,7685.00 ,< 100 DM,4 - 7 years,2,4,37,none,rent,1,skilled,1,no,yes
+unknown,18,poor,furniture/appliances,2320.00 ,< 100 DM,unemployed,2,3,34,none,own,2,skilled,1,no,no
+unknown,7,poor,furniture/appliances,846.00 ,unknown,> 7 years,3,4,36,none,other,1,skilled,1,no,no
+1 - 200 DM,36,good,car,14318.00 ,< 100 DM,> 7 years,4,2,57,none,other,1,management,1,yes,yes
+unknown,6,critical,car,362.00 ,100 - 500 DM,1 - 4 years,4,4,52,none,own,2,unskilled,1,no,no
+< 0 DM,20,good,furniture/appliances,2212.00 ,unknown,4 - 7 years,4,4,39,none,own,1,skilled,1,yes,no
+1 - 200 DM,18,good,car,12976.00 ,< 100 DM,unemployed,3,4,38,none,other,1,management,1,yes,yes
+unknown,22,good,car,1283.00 ,unknown,4 - 7 years,4,4,25,none,rent,1,skilled,1,no,no
+> 200 DM,12,good,car,1330.00 ,< 100 DM,< 1 year,4,1,26,none,own,1,skilled,1,no,no
+unknown,30,poor,business,4272.00 ,100 - 500 DM,1 - 4 years,2,2,26,none,own,2,unskilled,1,no,no
+unknown,18,critical,furniture/appliances,2238.00 ,< 100 DM,1 - 4 years,2,1,25,none,own,2,skilled,1,no,no
+unknown,18,good,furniture/appliances,1126.00 ,unknown,< 1 year,4,2,21,none,rent,1,skilled,1,yes,no
+1 - 200 DM,18,critical,furniture/appliances,7374.00 ,< 100 DM,unemployed,4,4,40,store,own,2,management,1,yes,no
+1 - 200 DM,15,critical,business,2326.00 ,500 - 1000 DM,1 - 4 years,2,4,27,bank,own,1,skilled,1,no,no
+unknown,9,good,business,1449.00 ,< 100 DM,4 - 7 years,3,2,27,none,own,2,skilled,1,no,no
+unknown,18,good,car,1820.00 ,< 100 DM,1 - 4 years,2,2,30,none,own,1,management,1,yes,no
+1 - 200 DM,12,good,furniture/appliances,983.00 ,> 1000 DM,< 1 year,1,4,19,none,rent,1,unskilled,1,no,no
+< 0 DM,36,good,car,3249.00 ,< 100 DM,4 - 7 years,2,4,39,bank,other,1,management,2,yes,no
+< 0 DM,6,critical,furniture/appliances,1957.00 ,< 100 DM,4 - 7 years,1,4,31,none,own,1,skilled,1,no,no
+unknown,9,critical,furniture/appliances,2406.00 ,< 100 DM,unemployed,2,3,31,none,own,1,management,1,no,no
+1 - 200 DM,39,poor,education,11760.00 ,100 - 500 DM,4 - 7 years,2,3,32,none,rent,1,skilled,1,yes,no
+< 0 DM,12,good,furniture/appliances,2578.00 ,< 100 DM,unemployed,3,4,55,none,other,1,management,1,no,no
+< 0 DM,36,critical,furniture/appliances,2348.00 ,< 100 DM,1 - 4 years,3,2,46,none,own,2,skilled,1,yes,no
+1 - 200 DM,12,good,car,1223.00 ,< 100 DM,> 7 years,1,1,46,none,rent,2,skilled,1,no,yes
+unknown,24,critical,furniture/appliances,1516.00 ,> 1000 DM,1 - 4 years,4,1,43,none,own,2,unskilled,1,no,no
+unknown,18,good,furniture/appliances,1473.00 ,< 100 DM,< 1 year,3,4,39,none,own,1,skilled,1,yes,no
+1 - 200 DM,18,critical,business,1887.00 ,unknown,1 - 4 years,4,4,28,bank,own,2,skilled,1,no,no
+unknown,24,poor,business,8648.00 ,< 100 DM,< 1 year,2,2,27,bank,own,2,skilled,1,yes,yes
+unknown,14,poor,car,802.00 ,< 100 DM,1 - 4 years,4,2,27,none,own,2,unskilled,1,no,no
+1 - 200 DM,18,poor,car,2899.00 ,unknown,> 7 years,4,4,43,none,own,1,skilled,2,no,no
+1 - 200 DM,24,good,furniture/appliances,2039.00 ,< 100 DM,< 1 year,1,1,22,none,own,1,skilled,1,yes,yes
+unknown,24,critical,car,2197.00 ,unknown,4 - 7 years,4,4,43,none,own,2,skilled,2,yes,no
+< 0 DM,15,good,furniture/appliances,1053.00 ,< 100 DM,< 1 year,4,2,27,none,own,1,skilled,1,no,no
+unknown,24,good,furniture/appliances,3235.00 ,500 - 1000 DM,> 7 years,3,2,26,none,own,1,management,1,yes,no
+> 200 DM,12,critical,car,939.00 ,500 - 1000 DM,4 - 7 years,4,2,28,none,own,3,skilled,1,yes,yes
+1 - 200 DM,24,good,furniture/appliances,1967.00 ,< 100 DM,> 7 years,4,4,20,none,own,1,skilled,1,yes,no
+unknown,33,critical,car,7253.00 ,< 100 DM,4 - 7 years,3,2,35,none,own,2,management,1,yes,no
+unknown,12,critical,business,2292.00 ,< 100 DM,unemployed,4,2,42,store,own,2,management,1,yes,yes
+unknown,10,good,car,1597.00 ,500 - 1000 DM,1 - 4 years,3,2,40,none,rent,1,unskilled,2,no,no
+< 0 DM,24,good,car,1381.00 ,unknown,1 - 4 years,4,2,35,none,own,1,skilled,1,no,yes
+unknown,36,critical,car,5842.00 ,< 100 DM,> 7 years,2,2,35,none,own,2,skilled,2,yes,no
+< 0 DM,12,good,car,2579.00 ,< 100 DM,< 1 year,4,1,33,none,own,1,unskilled,2,no,yes
+< 0 DM,18,poor,education,8471.00 ,unknown,1 - 4 years,1,2,23,none,rent,2,skilled,1,yes,no
+unknown,21,good,car,2782.00 ,500 - 1000 DM,4 - 7 years,1,2,31,bank,own,1,management,1,no,no
+1 - 200 DM,18,good,car,1042.00 ,unknown,1 - 4 years,4,2,33,none,own,1,skilled,1,no,yes
+unknown,15,good,car,3186.00 ,> 1000 DM,4 - 7 years,2,3,20,none,rent,1,skilled,1,no,no
+1 - 200 DM,12,good,car,2028.00 ,unknown,1 - 4 years,4,2,30,none,own,1,skilled,1,no,no
+1 - 200 DM,12,critical,car,958.00 ,< 100 DM,4 - 7 years,2,3,47,none,own,2,unskilled,2,no,no
+unknown,21,poor,furniture/appliances,1591.00 ,100 - 500 DM,4 - 7 years,4,3,34,none,own,2,management,1,no,no
+1 - 200 DM,12,good,furniture/appliances,2762.00 ,unknown,> 7 years,1,2,25,bank,own,1,skilled,1,yes,yes
+1 - 200 DM,18,good,car,2779.00 ,< 100 DM,1 - 4 years,1,3,21,none,rent,1,skilled,1,yes,no
+unknown,28,critical,furniture/appliances,2743.00 ,< 100 DM,> 7 years,4,2,29,none,own,2,skilled,1,no,no
+unknown,18,critical,furniture/appliances,1149.00 ,> 1000 DM,1 - 4 years,4,3,46,none,own,2,skilled,1,no,no
+unknown,9,good,furniture/appliances,1313.00 ,< 100 DM,> 7 years,1,4,20,none,own,1,skilled,1,no,no
+< 0 DM,18,critical,renovations,1190.00 ,< 100 DM,unemployed,2,4,55,none,other,3,unemployed,2,no,yes
+unknown,5,good,business,3448.00 ,< 100 DM,4 - 7 years,1,4,74,none,own,1,unskilled,1,no,no
+1 - 200 DM,24,good,car0,11328.00 ,< 100 DM,1 - 4 years,2,3,29,bank,own,2,management,1,yes,yes
+< 0 DM,6,critical,furniture/appliances,1872.00 ,< 100 DM,unemployed,4,4,36,none,other,3,management,1,yes,no
+unknown,24,critical,renovations,2058.00 ,< 100 DM,1 - 4 years,4,2,33,none,own,2,skilled,1,yes,no
+< 0 DM,9,good,furniture/appliances,2136.00 ,< 100 DM,1 - 4 years,3,2,25,none,own,1,skilled,1,no,no
+1 - 200 DM,12,good,furniture/appliances,1484.00 ,unknown,1 - 4 years,2,1,25,none,own,1,skilled,1,yes,yes
+unknown,6,good,renovations,660.00 ,500 - 1000 DM,4 - 7 years,2,4,23,none,rent,1,unskilled,1,no,no
+unknown,24,critical,car,1287.00 ,> 1000 DM,> 7 years,4,4,37,none,own,2,skilled,1,yes,no
+< 0 DM,42,critical,renovations,3394.00 ,< 100 DM,unemployed,4,4,65,none,own,2,unemployed,1,no,no
+> 200 DM,12,very good,business,609.00 ,< 100 DM,< 1 year,4,1,26,none,own,1,unemployed,1,no,yes
+unknown,12,good,car,1884.00 ,< 100 DM,> 7 years,4,4,39,none,own,1,management,1,yes,no
+< 0 DM,12,good,furniture/appliances,1620.00 ,< 100 DM,1 - 4 years,2,3,30,none,own,1,skilled,1,no,no
+1 - 200 DM,20,poor,car0,2629.00 ,< 100 DM,1 - 4 years,2,3,29,bank,own,2,skilled,1,yes,no
+unknown,12,good,education,719.00 ,< 100 DM,> 7 years,4,4,41,bank,own,1,unskilled,2,no,yes
+1 - 200 DM,48,critical,furniture/appliances,5096.00 ,< 100 DM,1 - 4 years,2,3,30,none,own,1,management,1,yes,yes
+unknown,9,critical,education,1244.00 ,unknown,> 7 years,4,4,41,none,rent,2,unskilled,1,no,no
+< 0 DM,36,good,car,1842.00 ,< 100 DM,< 1 year,4,4,34,none,own,1,skilled,1,yes,yes
+1 - 200 DM,7,good,furniture/appliances,2576.00 ,< 100 DM,1 - 4 years,2,2,35,none,own,1,skilled,1,no,no
+> 200 DM,12,good,furniture/appliances,1424.00 ,unknown,> 7 years,3,4,55,none,own,1,management,1,yes,no
+1 - 200 DM,15,poor,renovations,1512.00 ,> 1000 DM,1 - 4 years,3,3,61,store,own,2,skilled,1,no,yes
+unknown,36,critical,car,11054.00 ,unknown,1 - 4 years,4,2,30,none,own,1,management,1,yes,no
+unknown,6,good,furniture/appliances,518.00 ,< 100 DM,1 - 4 years,3,1,29,none,own,1,skilled,1,no,no
+unknown,12,perfect,furniture/appliances,2759.00 ,< 100 DM,> 7 years,2,4,34,none,own,2,skilled,1,no,no
+unknown,24,good,car,2670.00 ,< 100 DM,> 7 years,4,4,35,none,own,1,management,1,yes,no
+< 0 DM,24,good,car,4817.00 ,< 100 DM,4 - 7 years,2,3,31,none,own,1,skilled,1,yes,yes
+unknown,24,good,car,2679.00 ,< 100 DM,< 1 year,4,1,29,none,own,1,management,1,yes,no
+< 0 DM,11,critical,car,3905.00 ,< 100 DM,1 - 4 years,2,2,36,none,rent,2,skilled,2,no,no
+< 0 DM,12,good,car,3386.00 ,< 100 DM,> 7 years,3,4,35,none,other,1,skilled,1,yes,yes
+< 0 DM,6,good,furniture/appliances,343.00 ,< 100 DM,< 1 year,4,1,27,none,own,1,skilled,1,no,no
+unknown,18,good,furniture/appliances,4594.00 ,< 100 DM,< 1 year,3,2,32,none,own,1,skilled,1,yes,no
+< 0 DM,36,good,furniture/appliances,3620.00 ,< 100 DM,1 - 4 years,1,2,37,none,own,1,skilled,2,no,no
+< 0 DM,15,good,car,1721.00 ,< 100 DM,< 1 year,2,3,36,none,own,1,skilled,1,no,no
+1 - 200 DM,12,good,furniture/appliances,3017.00 ,< 100 DM,< 1 year,3,1,34,none,rent,1,management,1,no,no
+1 - 200 DM,12,good,education,754.00 ,unknown,> 7 years,4,4,38,none,own,2,skilled,1,no,no
+unknown,18,good,business,1950.00 ,< 100 DM,4 - 7 years,4,1,34,store,own,2,skilled,1,yes,no
+< 0 DM,24,good,car,2924.00 ,< 100 DM,1 - 4 years,3,4,63,bank,own,1,skilled,2,yes,no
+< 0 DM,24,poor,furniture/appliances,1659.00 ,< 100 DM,< 1 year,4,2,29,none,rent,1,unskilled,1,yes,yes
+unknown,48,poor,furniture/appliances,7238.00 ,unknown,> 7 years,3,3,32,bank,own,2,skilled,2,no,no
+unknown,33,poor,business,2764.00 ,< 100 DM,1 - 4 years,2,2,26,none,own,2,skilled,1,yes,no
+unknown,24,poor,car,4679.00 ,< 100 DM,4 - 7 years,3,3,35,none,own,2,unskilled,1,yes,no
+1 - 200 DM,24,good,furniture/appliances,3092.00 ,100 - 500 DM,< 1 year,3,2,22,none,rent,1,skilled,1,yes,yes
+< 0 DM,6,good,education,448.00 ,< 100 DM,< 1 year,4,4,23,none,own,1,skilled,1,no,yes
+< 0 DM,9,good,car,654.00 ,< 100 DM,1 - 4 years,4,3,28,none,own,1,unskilled,1,no,yes
+unknown,6,good,education,1238.00 ,unknown,unemployed,4,4,36,none,own,1,management,2,yes,no
+1 - 200 DM,18,critical,furniture/appliances,1245.00 ,< 100 DM,1 - 4 years,4,2,33,none,own,1,skilled,1,no,yes
+< 0 DM,18,perfect,furniture/appliances,3114.00 ,< 100 DM,< 1 year,1,4,26,none,rent,1,skilled,1,no,yes
+unknown,39,good,car,2569.00 ,500 - 1000 DM,1 - 4 years,4,4,24,none,own,1,skilled,1,no,no
+> 200 DM,24,good,furniture/appliances,5152.00 ,< 100 DM,4 - 7 years,4,2,25,bank,own,1,skilled,1,no,no
+1 - 200 DM,12,good,business,1037.00 ,100 - 500 DM,4 - 7 years,3,4,39,none,own,1,unskilled,1,no,no
+< 0 DM,15,critical,furniture/appliances,1478.00 ,< 100 DM,> 7 years,4,4,44,none,own,2,skilled,2,yes,no
+1 - 200 DM,12,critical,furniture/appliances,3573.00 ,< 100 DM,1 - 4 years,1,1,23,none,own,1,unskilled,1,no,no
+1 - 200 DM,24,good,car,1201.00 ,< 100 DM,< 1 year,4,1,26,none,own,1,skilled,1,no,no
+< 0 DM,30,good,furniture/appliances,3622.00 ,> 1000 DM,> 7 years,4,4,57,none,rent,2,skilled,1,yes,no
+unknown,15,poor,furniture/appliances,960.00 ,> 1000 DM,4 - 7 years,3,2,30,none,own,2,skilled,1,no,no
+unknown,12,critical,car,1163.00 ,500 - 1000 DM,1 - 4 years,4,4,44,none,own,1,skilled,1,yes,no
+1 - 200 DM,6,poor,car,1209.00 ,< 100 DM,unemployed,4,4,47,none,own,1,management,1,yes,yes
+unknown,12,good,furniture/appliances,3077.00 ,< 100 DM,1 - 4 years,2,4,52,none,own,1,skilled,1,yes,no
+unknown,24,good,car,3757.00 ,< 100 DM,> 7 years,4,4,62,none,other,1,skilled,1,yes,no
+unknown,10,good,car,1418.00 ,100 - 500 DM,1 - 4 years,3,2,35,none,rent,1,unskilled,1,no,no
+unknown,6,good,car,3518.00 ,< 100 DM,1 - 4 years,2,3,26,none,rent,1,skilled,1,no,no
+unknown,12,critical,furniture/appliances,1934.00 ,< 100 DM,> 7 years,2,2,26,none,own,2,skilled,1,no,no
+1 - 200 DM,27,perfect,business,8318.00 ,< 100 DM,> 7 years,2,4,42,none,other,2,management,1,yes,yes
+unknown,6,critical,furniture/appliances,1237.00 ,100 - 500 DM,1 - 4 years,1,1,27,none,own,2,skilled,1,no,no
+1 - 200 DM,6,good,furniture/appliances,368.00 ,unknown,> 7 years,4,4,38,none,own,1,skilled,1,no,no
+< 0 DM,12,critical,car,2122.00 ,< 100 DM,1 - 4 years,3,2,39,none,rent,2,unskilled,2,no,no
+< 0 DM,24,good,furniture/appliances,2996.00 ,unknown,1 - 4 years,2,4,20,none,own,1,skilled,1,no,yes
+1 - 200 DM,36,good,furniture/appliances,9034.00 ,100 - 500 DM,< 1 year,4,1,29,none,rent,1,management,1,yes,yes
+unknown,24,critical,furniture/appliances,1585.00 ,< 100 DM,4 - 7 years,4,3,40,none,own,2,skilled,1,no,no
+1 - 200 DM,18,good,furniture/appliances,1301.00 ,< 100 DM,> 7 years,4,2,32,none,own,1,unskilled,1,no,no
+> 200 DM,6,critical,car,1323.00 ,100 - 500 DM,> 7 years,2,4,28,none,own,2,skilled,2,yes,no
+< 0 DM,24,good,car,3123.00 ,< 100 DM,< 1 year,4,1,27,none,own,1,skilled,1,no,yes
+< 0 DM,36,good,car,5493.00 ,< 100 DM,> 7 years,2,4,42,none,other,1,skilled,2,no,no
+> 200 DM,9,good,furniture/appliances,1126.00 ,100 - 500 DM,> 7 years,2,4,49,none,own,1,skilled,1,no,no
+1 - 200 DM,24,critical,furniture/appliances,1216.00 ,100 - 500 DM,< 1 year,4,4,38,bank,own,2,skilled,2,no,yes
+< 0 DM,24,good,car,1207.00 ,< 100 DM,< 1 year,4,4,24,none,rent,1,skilled,1,no,yes
+unknown,10,good,car,1309.00 ,unknown,1 - 4 years,4,4,27,none,own,1,unskilled,1,no,yes
+> 200 DM,15,critical,car,2360.00 ,500 - 1000 DM,1 - 4 years,2,2,36,none,own,1,skilled,1,yes,no
+1 - 200 DM,15,very good,car,6850.00 ,100 - 500 DM,unemployed,1,2,34,none,own,1,management,2,yes,yes
+unknown,24,good,furniture/appliances,1413.00 ,< 100 DM,1 - 4 years,4,2,28,none,own,1,skilled,1,no,no
+unknown,39,good,car,8588.00 ,100 - 500 DM,> 7 years,4,2,45,none,own,1,management,1,yes,no
+< 0 DM,12,good,car,759.00 ,< 100 DM,4 - 7 years,4,2,26,none,own,1,skilled,1,no,yes
+unknown,36,good,car,4686.00 ,< 100 DM,1 - 4 years,2,2,32,none,other,1,management,1,yes,no
+> 200 DM,15,good,business,2687.00 ,< 100 DM,4 - 7 years,2,4,26,none,rent,1,skilled,1,yes,no
+1 - 200 DM,12,poor,furniture/appliances,585.00 ,< 100 DM,1 - 4 years,4,4,20,none,rent,2,skilled,1,no,no
+unknown,24,good,car,2255.00 ,unknown,< 1 year,4,1,54,none,own,1,skilled,1,no,no
+< 0 DM,6,critical,car,609.00 ,< 100 DM,4 - 7 years,4,3,37,none,own,2,skilled,1,no,no
+< 0 DM,6,critical,car,1361.00 ,< 100 DM,< 1 year,2,4,40,none,own,1,unskilled,2,no,no
+unknown,36,critical,furniture/appliances,7127.00 ,< 100 DM,< 1 year,2,4,23,none,rent,2,skilled,1,yes,yes
+< 0 DM,6,good,car,1203.00 ,100 - 500 DM,> 7 years,3,2,43,none,own,1,skilled,1,yes,no
+unknown,6,critical,furniture/appliances,700.00 ,unknown,> 7 years,4,4,36,none,other,2,skilled,1,no,no
+unknown,24,critical,renovations,5507.00 ,< 100 DM,> 7 years,3,4,44,none,other,2,skilled,1,no,no
+< 0 DM,18,good,furniture/appliances,3190.00 ,< 100 DM,1 - 4 years,2,2,24,none,own,1,skilled,1,no,yes
+< 0 DM,48,perfect,furniture/appliances,7119.00 ,< 100 DM,1 - 4 years,3,4,53,none,other,2,skilled,2,no,yes
+unknown,24,good,car,3488.00 ,100 - 500 DM,4 - 7 years,3,4,23,none,own,1,skilled,1,no,no
+1 - 200 DM,18,good,furniture/appliances,1113.00 ,< 100 DM,1 - 4 years,4,4,26,none,own,1,unskilled,2,no,no
+1 - 200 DM,26,good,car,7966.00 ,< 100 DM,< 1 year,2,3,30,none,own,2,skilled,1,no,no
+unknown,15,critical,education,1532.00 ,100 - 500 DM,1 - 4 years,4,3,31,none,own,1,skilled,1,no,no
+unknown,4,critical,furniture/appliances,1503.00 ,< 100 DM,4 - 7 years,2,1,42,none,own,2,unskilled,2,no,no
+< 0 DM,36,good,furniture/appliances,2302.00 ,< 100 DM,1 - 4 years,4,4,31,none,rent,1,skilled,1,no,yes
+< 0 DM,6,good,car,662.00 ,< 100 DM,< 1 year,3,4,41,none,own,1,unskilled,2,yes,no
+1 - 200 DM,36,good,education,2273.00 ,< 100 DM,4 - 7 years,3,1,32,none,own,2,skilled,2,no,no
+1 - 200 DM,15,good,car,2631.00 ,100 - 500 DM,1 - 4 years,2,4,28,none,rent,2,skilled,1,yes,yes
+unknown,12,poor,car,1503.00 ,< 100 DM,1 - 4 years,4,4,41,none,rent,1,skilled,1,no,no
+unknown,24,good,furniture/appliances,1311.00 ,100 - 500 DM,4 - 7 years,4,3,26,none,own,1,skilled,1,yes,no
+unknown,24,good,furniture/appliances,3105.00 ,unknown,< 1 year,4,2,25,none,own,2,skilled,1,no,no
+> 200 DM,21,critical,education,2319.00 ,< 100 DM,< 1 year,2,1,33,none,rent,1,skilled,1,no,yes
+< 0 DM,6,good,car,1374.00 ,unknown,unemployed,4,3,75,none,own,1,management,1,yes,no
+1 - 200 DM,18,critical,furniture/appliances,3612.00 ,< 100 DM,> 7 years,3,4,37,none,own,1,skilled,1,yes,no
+< 0 DM,48,good,car,7763.00 ,< 100 DM,> 7 years,4,4,42,bank,other,1,management,1,no,yes
+> 200 DM,18,good,furniture/appliances,3049.00 ,< 100 DM,< 1 year,1,1,45,store,own,1,unskilled,1,no,no
+1 - 200 DM,12,good,furniture/appliances,1534.00 ,< 100 DM,< 1 year,1,1,23,none,rent,1,skilled,1,no,yes
+unknown,24,poor,car,2032.00 ,< 100 DM,> 7 years,4,4,60,none,other,2,skilled,1,yes,no
+< 0 DM,30,good,furniture/appliances,6350.00 ,unknown,> 7 years,4,4,31,none,own,1,skilled,1,no,yes
+> 200 DM,18,good,furniture/appliances,2864.00 ,< 100 DM,1 - 4 years,2,1,34,none,own,1,unskilled,2,no,yes
+unknown,12,critical,car,1255.00 ,< 100 DM,> 7 years,4,4,61,none,own,2,unskilled,1,no,no
+< 0 DM,24,poor,car,1333.00 ,< 100 DM,unemployed,4,2,43,none,other,2,skilled,2,no,yes
+unknown,24,critical,car,2022.00 ,< 100 DM,1 - 4 years,4,4,37,none,own,1,skilled,1,yes,no
+unknown,24,good,furniture/appliances,1552.00 ,< 100 DM,4 - 7 years,3,1,32,bank,own,1,skilled,2,no,no
+< 0 DM,12,very good,furniture/appliances,626.00 ,< 100 DM,1 - 4 years,4,4,24,bank,own,1,unskilled,1,no,yes
+unknown,48,critical,car,8858.00 ,unknown,4 - 7 years,2,1,35,none,other,2,skilled,1,yes,no
+unknown,12,critical,renovations,996.00 ,unknown,4 - 7 years,4,4,23,none,own,2,skilled,1,no,no
+unknown,6,very good,furniture/appliances,1750.00 ,500 - 1000 DM,> 7 years,2,4,45,bank,own,1,unskilled,2,no,no
+< 0 DM,48,good,furniture/appliances,6999.00 ,< 100 DM,4 - 7 years,1,1,34,none,own,2,skilled,1,yes,yes
+1 - 200 DM,12,critical,car,1995.00 ,100 - 500 DM,< 1 year,4,1,27,none,own,1,skilled,1,no,no
+1 - 200 DM,9,good,education,1199.00 ,< 100 DM,4 - 7 years,4,4,67,none,own,2,management,1,yes,no
+1 - 200 DM,12,good,furniture/appliances,1331.00 ,< 100 DM,< 1 year,2,1,22,store,own,1,skilled,1,no,yes
+1 - 200 DM,18,perfect,car,2278.00 ,100 - 500 DM,< 1 year,3,3,28,none,own,2,skilled,1,no,yes
+unknown,21,perfect,car,5003.00 ,unknown,1 - 4 years,1,4,29,bank,own,2,skilled,1,yes,yes
+< 0 DM,24,very good,furniture/appliances,3552.00 ,< 100 DM,4 - 7 years,3,4,27,bank,own,1,skilled,1,no,yes
+1 - 200 DM,18,critical,furniture/appliances,1928.00 ,< 100 DM,< 1 year,2,2,31,none,own,2,unskilled,1,no,yes
+< 0 DM,24,good,car,2964.00 ,unknown,> 7 years,4,4,49,bank,other,1,skilled,2,yes,no
+< 0 DM,24,very good,furniture/appliances,1546.00 ,< 100 DM,4 - 7 years,4,4,24,bank,rent,1,unskilled,1,no,yes
+> 200 DM,6,poor,furniture/appliances,683.00 ,< 100 DM,< 1 year,2,1,29,bank,own,1,skilled,1,no,no
+1 - 200 DM,36,good,car,12389.00 ,unknown,1 - 4 years,1,4,37,none,other,1,skilled,1,yes,yes
+1 - 200 DM,24,poor,business,4712.00 ,unknown,1 - 4 years,4,2,37,bank,own,2,management,1,yes,no
+1 - 200 DM,24,poor,furniture/appliances,1553.00 ,100 - 500 DM,4 - 7 years,3,2,23,none,rent,2,skilled,1,yes,no
+< 0 DM,12,good,car,1372.00 ,< 100 DM,4 - 7 years,2,3,36,none,own,1,skilled,1,no,yes
+unknown,24,critical,furniture/appliances,2578.00 ,> 1000 DM,> 7 years,2,2,34,none,own,1,skilled,1,no,no
+1 - 200 DM,48,good,furniture/appliances,3979.00 ,unknown,4 - 7 years,4,1,41,none,own,2,skilled,2,yes,no
+< 0 DM,48,good,furniture/appliances,6758.00 ,< 100 DM,1 - 4 years,3,2,31,none,own,1,skilled,1,yes,yes
+< 0 DM,24,good,furniture/appliances,3234.00 ,< 100 DM,< 1 year,4,4,23,none,rent,1,unskilled,1,yes,yes
+unknown,30,critical,furniture/appliances,5954.00 ,< 100 DM,4 - 7 years,3,2,38,none,own,1,skilled,1,no,no
+unknown,24,good,car,5433.00 ,unknown,unemployed,2,4,26,none,rent,1,management,1,yes,no
+< 0 DM,15,good,business,806.00 ,< 100 DM,1 - 4 years,4,4,22,none,own,1,unskilled,1,no,no
+1 - 200 DM,9,good,furniture/appliances,1082.00 ,< 100 DM,> 7 years,4,4,27,none,own,2,unskilled,1,no,no
+unknown,15,critical,furniture/appliances,2788.00 ,< 100 DM,4 - 7 years,2,3,24,bank,own,2,skilled,1,no,no
+1 - 200 DM,12,good,furniture/appliances,2930.00 ,< 100 DM,4 - 7 years,2,1,27,none,own,1,skilled,1,no,no
+unknown,24,critical,education,1927.00 ,unknown,1 - 4 years,3,2,33,none,own,2,skilled,1,yes,no
+1 - 200 DM,36,critical,car,2820.00 ,< 100 DM,< 1 year,4,4,27,none,own,2,skilled,1,no,yes
+unknown,24,good,education,937.00 ,< 100 DM,< 1 year,4,3,27,none,own,2,unskilled,1,no,no
+1 - 200 DM,18,critical,car,1056.00 ,< 100 DM,> 7 years,3,3,30,bank,own,2,skilled,1,no,yes
+1 - 200 DM,12,critical,car,3124.00 ,< 100 DM,< 1 year,1,3,49,bank,own,2,unskilled,2,no,no
+unknown,9,good,furniture/appliances,1388.00 ,< 100 DM,1 - 4 years,4,2,26,none,rent,1,skilled,1,no,no
+1 - 200 DM,36,good,renovations,2384.00 ,< 100 DM,< 1 year,4,1,33,none,rent,1,unskilled,1,no,yes
+unknown,12,good,car,2133.00 ,unknown,> 7 years,4,4,52,none,other,1,management,1,yes,no
+< 0 DM,18,good,furniture/appliances,2039.00 ,< 100 DM,1 - 4 years,1,4,20,bank,rent,1,skilled,1,no,yes
+< 0 DM,9,critical,car,2799.00 ,< 100 DM,1 - 4 years,2,2,36,none,rent,2,skilled,2,no,no
+< 0 DM,12,good,furniture/appliances,1289.00 ,< 100 DM,1 - 4 years,4,1,21,none,own,1,unskilled,1,no,no
+< 0 DM,18,good,furniture/appliances,1217.00 ,< 100 DM,1 - 4 years,4,3,47,none,own,1,unskilled,1,yes,yes
+< 0 DM,12,critical,furniture/appliances,2246.00 ,< 100 DM,> 7 years,3,3,60,none,own,2,skilled,1,no,yes
+< 0 DM,12,critical,furniture/appliances,385.00 ,< 100 DM,4 - 7 years,4,3,58,none,own,4,unskilled,1,yes,no
+1 - 200 DM,24,poor,car,1965.00 ,unknown,1 - 4 years,4,4,42,none,rent,2,skilled,1,yes,no
+unknown,21,good,business,1572.00 ,> 1000 DM,> 7 years,4,4,36,bank,own,1,unskilled,1,no,no
+1 - 200 DM,24,good,car,2718.00 ,< 100 DM,1 - 4 years,3,4,20,none,rent,1,unskilled,1,yes,yes
+< 0 DM,24,very good,car0,1358.00 ,unknown,> 7 years,4,3,40,store,own,1,management,1,yes,yes
+1 - 200 DM,6,very good,car,931.00 ,100 - 500 DM,< 1 year,1,1,32,store,own,1,unskilled,1,no,yes
+< 0 DM,24,good,car,1442.00 ,< 100 DM,4 - 7 years,4,4,23,none,rent,2,skilled,1,no,yes
+1 - 200 DM,24,perfect,business,4241.00 ,< 100 DM,1 - 4 years,1,4,36,none,own,3,unskilled,1,yes,yes
+unknown,18,critical,car,2775.00 ,< 100 DM,4 - 7 years,2,2,31,bank,own,2,skilled,1,no,yes
+unknown,24,poor,business,3863.00 ,< 100 DM,1 - 4 years,1,2,32,none,other,1,skilled,1,no,no
+1 - 200 DM,7,good,furniture/appliances,2329.00 ,< 100 DM,< 1 year,1,1,45,none,own,1,skilled,1,no,no
+1 - 200 DM,9,good,furniture/appliances,918.00 ,< 100 DM,1 - 4 years,4,1,30,none,own,1,skilled,1,no,yes
+1 - 200 DM,24,very good,education,1837.00 ,< 100 DM,4 - 7 years,4,4,34,bank,other,1,unskilled,1,no,yes
+unknown,36,good,furniture/appliances,3349.00 ,< 100 DM,1 - 4 years,4,2,28,none,own,1,management,1,yes,yes
+> 200 DM,10,good,furniture/appliances,1275.00 ,< 100 DM,< 1 year,4,2,23,none,own,1,skilled,1,no,no
+< 0 DM,24,very good,furniture/appliances,2828.00 ,500 - 1000 DM,1 - 4 years,4,4,22,store,own,1,skilled,1,yes,no
+unknown,24,critical,business,4526.00 ,< 100 DM,1 - 4 years,3,2,74,none,own,1,management,1,yes,no
+1 - 200 DM,36,good,furniture/appliances,2671.00 ,100 - 500 DM,1 - 4 years,4,4,50,none,other,1,skilled,1,no,yes
+unknown,18,good,furniture/appliances,2051.00 ,< 100 DM,< 1 year,4,1,33,none,own,1,skilled,1,no,no
+unknown,15,good,car,1300.00 ,unknown,> 7 years,4,4,45,bank,other,1,skilled,2,no,no
+< 0 DM,12,good,furniture/appliances,741.00 ,100 - 500 DM,unemployed,4,3,22,none,own,1,skilled,1,no,yes
+> 200 DM,10,good,car,1240.00 ,100 - 500 DM,> 7 years,1,4,48,none,other,1,unskilled,2,no,yes
+< 0 DM,21,good,furniture/appliances,3357.00 ,> 1000 DM,< 1 year,4,2,29,bank,own,1,skilled,1,no,no
+< 0 DM,24,very good,car,3632.00 ,< 100 DM,1 - 4 years,1,4,22,bank,rent,1,skilled,1,no,no
+unknown,18,poor,furniture/appliances,1808.00 ,< 100 DM,4 - 7 years,4,1,22,none,own,1,skilled,1,no,yes
+1 - 200 DM,48,perfect,business,12204.00 ,unknown,1 - 4 years,2,2,48,bank,own,1,management,1,yes,no
+1 - 200 DM,60,poor,furniture/appliances,9157.00 ,unknown,1 - 4 years,2,2,27,none,other,1,management,1,no,no
+< 0 DM,6,critical,car,3676.00 ,< 100 DM,1 - 4 years,1,3,37,none,rent,3,skilled,2,no,no
+1 - 200 DM,30,good,furniture/appliances,3441.00 ,100 - 500 DM,1 - 4 years,2,4,21,none,rent,1,skilled,1,no,yes
+unknown,12,good,car,640.00 ,< 100 DM,1 - 4 years,4,2,49,none,own,1,unskilled,1,no,no
+1 - 200 DM,21,critical,business,3652.00 ,< 100 DM,4 - 7 years,2,3,27,none,own,2,skilled,1,no,no
+unknown,18,critical,car,1530.00 ,< 100 DM,1 - 4 years,3,2,32,bank,own,2,skilled,1,no,yes
+unknown,48,good,business,3914.00 ,unknown,1 - 4 years,4,2,38,bank,own,1,skilled,1,no,yes
+< 0 DM,12,good,furniture/appliances,1858.00 ,< 100 DM,< 1 year,4,1,22,none,rent,1,skilled,1,no,no
+< 0 DM,18,good,furniture/appliances,2600.00 ,< 100 DM,1 - 4 years,4,4,65,none,other,2,skilled,1,no,yes
+unknown,15,good,furniture/appliances,1979.00 ,unknown,> 7 years,4,2,35,none,own,1,skilled,1,no,no
+> 200 DM,6,good,furniture/appliances,2116.00 ,< 100 DM,1 - 4 years,2,2,41,none,own,1,skilled,1,yes,no
+1 - 200 DM,9,very good,car,1437.00 ,100 - 500 DM,4 - 7 years,2,3,29,none,own,1,skilled,1,no,yes
+unknown,42,critical,furniture/appliances,4042.00 ,500 - 1000 DM,1 - 4 years,4,4,36,none,own,2,skilled,1,yes,no
+unknown,9,good,education,3832.00 ,unknown,> 7 years,1,4,64,none,own,1,unskilled,1,no,no
+< 0 DM,24,good,furniture/appliances,3660.00 ,< 100 DM,1 - 4 years,2,4,28,none,own,1,skilled,1,no,no
+< 0 DM,18,very good,furniture/appliances,1553.00 ,< 100 DM,1 - 4 years,4,3,44,bank,own,1,skilled,1,no,yes
+1 - 200 DM,15,good,furniture/appliances,1444.00 ,unknown,< 1 year,4,1,23,none,own,1,skilled,1,no,no
+unknown,9,good,furniture/appliances,1980.00 ,< 100 DM,< 1 year,2,2,19,none,rent,2,skilled,1,no,yes
+1 - 200 DM,24,good,car,1355.00 ,< 100 DM,< 1 year,3,4,25,none,own,1,unskilled,1,yes,yes
+unknown,12,good,education,1393.00 ,< 100 DM,> 7 years,4,4,47,bank,own,3,skilled,2,yes,no
+unknown,24,good,furniture/appliances,1376.00 ,500 - 1000 DM,4 - 7 years,4,1,28,none,own,1,skilled,1,no,no
+unknown,60,poor,furniture/appliances,15653.00 ,< 100 DM,4 - 7 years,2,4,21,none,own,2,skilled,1,yes,no
+unknown,12,good,furniture/appliances,1493.00 ,< 100 DM,< 1 year,4,3,34,none,own,1,skilled,2,no,no
+< 0 DM,42,poor,furniture/appliances,4370.00 ,< 100 DM,4 - 7 years,3,2,26,bank,own,2,skilled,2,yes,yes
+< 0 DM,18,good,education,750.00 ,< 100 DM,unemployed,4,1,27,none,own,1,unemployed,1,no,yes
+1 - 200 DM,15,good,renovations,1308.00 ,< 100 DM,> 7 years,4,4,38,none,own,2,unskilled,1,no,no
+unknown,15,good,education,4623.00 ,100 - 500 DM,1 - 4 years,3,2,40,none,own,1,management,1,yes,yes
+unknown,24,critical,furniture/appliances,1851.00 ,< 100 DM,4 - 7 years,4,2,33,none,own,2,skilled,1,yes,no
+< 0 DM,18,critical,furniture/appliances,1880.00 ,< 100 DM,4 - 7 years,4,1,32,none,own,2,management,1,yes,no
+unknown,36,poor,business,7980.00 ,unknown,< 1 year,4,4,27,none,rent,2,skilled,1,yes,yes
+< 0 DM,30,perfect,furniture/appliances,4583.00 ,< 100 DM,1 - 4 years,2,2,32,none,own,2,skilled,1,no,no
+unknown,12,good,car,1386.00 ,500 - 1000 DM,1 - 4 years,2,2,26,none,own,1,skilled,1,no,yes
+> 200 DM,24,good,car,947.00 ,< 100 DM,4 - 7 years,4,3,38,bank,other,1,skilled,2,no,yes
+< 0 DM,12,good,education,684.00 ,< 100 DM,1 - 4 years,4,4,40,none,rent,1,unskilled,2,no,yes
+< 0 DM,48,good,education,7476.00 ,< 100 DM,4 - 7 years,4,1,50,none,other,1,management,1,yes,no
+1 - 200 DM,12,good,furniture/appliances,1922.00 ,< 100 DM,1 - 4 years,4,2,37,none,own,1,unskilled,1,no,yes
+< 0 DM,24,good,car,2303.00 ,< 100 DM,> 7 years,4,1,45,none,own,1,skilled,1,no,yes
+1 - 200 DM,36,poor,car,8086.00 ,100 - 500 DM,> 7 years,2,4,42,none,own,4,management,1,yes,yes
+unknown,24,critical,car,2346.00 ,< 100 DM,4 - 7 years,4,3,35,none,own,2,skilled,1,yes,no
+< 0 DM,14,good,car,3973.00 ,< 100 DM,unemployed,1,4,22,none,other,1,skilled,1,no,no
+1 - 200 DM,12,good,car,888.00 ,< 100 DM,> 7 years,4,4,41,bank,own,1,unskilled,2,no,yes
+unknown,48,good,furniture/appliances,10222.00 ,unknown,4 - 7 years,4,3,37,store,own,1,skilled,1,yes,no
+1 - 200 DM,30,perfect,business,4221.00 ,< 100 DM,1 - 4 years,2,1,28,none,own,2,skilled,1,no,no
+1 - 200 DM,18,critical,furniture/appliances,6361.00 ,< 100 DM,> 7 years,2,1,41,none,own,1,skilled,1,yes,no
+> 200 DM,12,good,furniture/appliances,1297.00 ,< 100 DM,1 - 4 years,3,4,23,none,rent,1,skilled,1,no,no
+< 0 DM,12,good,car,900.00 ,unknown,1 - 4 years,4,2,23,none,own,1,skilled,1,no,yes
+unknown,21,good,furniture/appliances,2241.00 ,< 100 DM,> 7 years,4,2,50,none,own,2,skilled,1,no,no
+1 - 200 DM,6,poor,furniture/appliances,1050.00 ,< 100 DM,unemployed,4,1,35,store,own,2,management,1,yes,no
+> 200 DM,6,critical,education,1047.00 ,< 100 DM,1 - 4 years,2,4,50,none,own,1,unskilled,1,no,no
+unknown,24,critical,car0,6314.00 ,< 100 DM,unemployed,4,2,27,bank,own,2,management,1,yes,no
+1 - 200 DM,30,very good,furniture/appliances,3496.00 ,> 1000 DM,1 - 4 years,4,2,34,store,own,1,skilled,2,yes,no
+unknown,48,very good,business,3609.00 ,< 100 DM,1 - 4 years,1,1,27,store,own,1,skilled,1,no,no
+< 0 DM,12,critical,car,4843.00 ,< 100 DM,> 7 years,3,4,43,none,rent,2,skilled,1,yes,yes
+> 200 DM,30,critical,furniture/appliances,3017.00 ,< 100 DM,> 7 years,4,4,47,none,own,1,skilled,1,no,no
+unknown,24,critical,business,4139.00 ,100 - 500 DM,1 - 4 years,3,3,27,none,own,2,unskilled,1,yes,no
+unknown,36,good,business,5742.00 ,100 - 500 DM,4 - 7 years,2,2,31,none,own,2,skilled,1,yes,no
+unknown,60,good,car,10366.00 ,< 100 DM,> 7 years,2,4,42,none,own,1,management,1,yes,no
+unknown,6,critical,car,2080.00 ,500 - 1000 DM,1 - 4 years,1,2,24,none,own,1,skilled,1,no,no
+unknown,21,poor,business,2580.00 ,500 - 1000 DM,< 1 year,4,2,41,bank,own,1,unskilled,2,no,yes
+unknown,30,critical,furniture/appliances,4530.00 ,< 100 DM,4 - 7 years,4,4,26,none,rent,1,management,1,yes,no
+unknown,24,critical,furniture/appliances,5150.00 ,< 100 DM,> 7 years,4,4,33,none,own,1,skilled,1,yes,no
+1 - 200 DM,72,good,furniture/appliances,5595.00 ,100 - 500 DM,1 - 4 years,2,2,24,none,own,1,skilled,1,no,yes
+< 0 DM,24,good,furniture/appliances,2384.00 ,< 100 DM,> 7 years,4,4,64,bank,rent,1,unskilled,1,no,no
+unknown,18,good,furniture/appliances,1453.00 ,< 100 DM,< 1 year,3,1,26,none,own,1,skilled,1,no,no
+unknown,6,good,education,1538.00 ,< 100 DM,< 1 year,1,2,56,none,own,1,skilled,1,no,no
+unknown,12,good,furniture/appliances,2279.00 ,unknown,1 - 4 years,4,4,37,none,other,1,skilled,1,yes,no
+unknown,15,poor,furniture/appliances,1478.00 ,< 100 DM,1 - 4 years,4,3,33,bank,own,2,skilled,1,no,no
+unknown,24,critical,furniture/appliances,5103.00 ,< 100 DM,< 1 year,3,3,47,none,other,3,skilled,1,yes,no
+1 - 200 DM,36,poor,business,9857.00 ,100 - 500 DM,4 - 7 years,1,3,31,none,own,2,unskilled,2,yes,no
+unknown,60,good,car,6527.00 ,unknown,1 - 4 years,4,4,34,none,other,1,skilled,2,yes,no
+> 200 DM,10,critical,furniture/appliances,1347.00 ,unknown,4 - 7 years,4,2,27,none,own,2,skilled,1,yes,no
+1 - 200 DM,36,poor,car,2862.00 ,100 - 500 DM,> 7 years,4,3,30,none,other,1,skilled,1,no,no
+unknown,9,good,furniture/appliances,2753.00 ,100 - 500 DM,> 7 years,3,4,35,none,own,1,skilled,1,yes,no
+< 0 DM,12,good,car,3651.00 ,> 1000 DM,1 - 4 years,1,3,31,none,own,1,skilled,2,no,no
+< 0 DM,15,critical,furniture/appliances,975.00 ,< 100 DM,1 - 4 years,2,3,25,none,own,2,skilled,1,no,no
+1 - 200 DM,15,good,renovations,2631.00 ,100 - 500 DM,1 - 4 years,3,2,25,none,own,1,unskilled,1,no,no
+1 - 200 DM,24,good,furniture/appliances,2896.00 ,100 - 500 DM,< 1 year,2,1,29,none,own,1,skilled,1,no,no
+< 0 DM,6,critical,car,4716.00 ,unknown,< 1 year,1,3,44,none,own,2,unskilled,2,no,no
+unknown,24,good,furniture/appliances,2284.00 ,< 100 DM,4 - 7 years,4,2,28,none,own,1,skilled,1,yes,no
+unknown,6,good,car,1236.00 ,500 - 1000 DM,1 - 4 years,2,4,50,none,rent,1,skilled,1,no,no
+1 - 200 DM,12,good,furniture/appliances,1103.00 ,< 100 DM,4 - 7 years,4,3,29,none,own,2,skilled,1,no,no
+unknown,12,critical,car,926.00 ,< 100 DM,unemployed,1,2,38,none,own,1,unemployed,1,no,no
+unknown,18,critical,furniture/appliances,1800.00 ,< 100 DM,1 - 4 years,4,2,24,none,own,2,skilled,1,no,no
+> 200 DM,15,good,education,1905.00 ,< 100 DM,> 7 years,4,4,40,none,rent,1,management,1,yes,no
+unknown,12,good,furniture/appliances,1123.00 ,500 - 1000 DM,1 - 4 years,4,4,29,none,rent,1,unskilled,1,no,yes
+< 0 DM,48,critical,car,6331.00 ,< 100 DM,> 7 years,4,4,46,none,other,2,skilled,1,yes,yes
+> 200 DM,24,good,furniture/appliances,1377.00 ,100 - 500 DM,> 7 years,4,2,47,none,other,1,skilled,1,yes,no
+1 - 200 DM,30,poor,business,2503.00 ,100 - 500 DM,> 7 years,4,2,41,store,own,2,skilled,1,no,no
+1 - 200 DM,27,good,business,2528.00 ,< 100 DM,< 1 year,4,1,32,none,own,1,skilled,2,yes,no
+unknown,15,good,car,5324.00 ,500 - 1000 DM,> 7 years,1,4,35,none,other,1,skilled,1,no,no
+1 - 200 DM,48,good,car,6560.00 ,100 - 500 DM,4 - 7 years,3,2,24,none,own,1,skilled,1,no,yes
+1 - 200 DM,12,perfect,furniture/appliances,2969.00 ,< 100 DM,< 1 year,4,3,25,none,rent,2,skilled,1,no,yes
+1 - 200 DM,9,good,furniture/appliances,1206.00 ,< 100 DM,> 7 years,4,4,25,none,own,1,skilled,1,no,no
+1 - 200 DM,9,good,furniture/appliances,2118.00 ,< 100 DM,1 - 4 years,2,2,37,none,own,1,unskilled,2,no,no
+unknown,18,critical,furniture/appliances,629.00 ,500 - 1000 DM,> 7 years,4,3,32,bank,own,2,management,1,yes,no
+< 0 DM,6,very good,education,1198.00 ,< 100 DM,> 7 years,4,4,35,none,other,1,skilled,1,no,yes
+unknown,21,good,car,2476.00 ,unknown,> 7 years,4,4,46,none,own,1,management,1,yes,no
+< 0 DM,9,critical,furniture/appliances,1138.00 ,< 100 DM,1 - 4 years,4,4,25,none,own,2,unskilled,1,no,no
+1 - 200 DM,60,good,car,14027.00 ,< 100 DM,4 - 7 years,4,2,27,none,own,1,management,1,yes,yes
+unknown,30,critical,car,7596.00 ,unknown,> 7 years,1,4,63,none,own,2,skilled,1,no,no
+unknown,30,critical,furniture/appliances,3077.00 ,unknown,> 7 years,3,2,40,none,own,2,skilled,2,yes,no
+unknown,18,good,furniture/appliances,1505.00 ,< 100 DM,1 - 4 years,4,2,32,none,other,1,management,1,yes,no
+> 200 DM,24,critical,furniture/appliances,3148.00 ,unknown,1 - 4 years,3,2,31,none,own,2,skilled,1,yes,no
+1 - 200 DM,20,perfect,car,6148.00 ,100 - 500 DM,> 7 years,3,4,31,bank,own,2,skilled,1,yes,no
+> 200 DM,9,perfect,furniture/appliances,1337.00 ,< 100 DM,< 1 year,4,2,34,none,own,2,management,1,yes,yes
+1 - 200 DM,6,very good,education,433.00 ,> 1000 DM,< 1 year,4,2,24,bank,rent,1,skilled,2,no,yes
+< 0 DM,12,good,car,1228.00 ,< 100 DM,1 - 4 years,4,2,24,none,own,1,unskilled,1,no,yes
+1 - 200 DM,9,good,furniture/appliances,790.00 ,500 - 1000 DM,1 - 4 years,4,3,66,none,own,1,unskilled,1,no,no
+unknown,27,good,car,2570.00 ,< 100 DM,1 - 4 years,3,3,21,none,rent,1,skilled,1,no,yes
+unknown,6,critical,car,250.00 ,> 1000 DM,1 - 4 years,2,2,41,bank,own,2,unskilled,1,no,no
+unknown,15,critical,furniture/appliances,1316.00 ,500 - 1000 DM,1 - 4 years,2,2,47,none,own,2,unskilled,1,no,no
+< 0 DM,18,good,furniture/appliances,1882.00 ,< 100 DM,1 - 4 years,4,4,25,bank,rent,2,skilled,1,no,yes
+1 - 200 DM,48,very good,business,6416.00 ,< 100 DM,> 7 years,4,3,59,none,rent,1,skilled,1,no,yes
+> 200 DM,24,critical,business,1275.00 ,> 1000 DM,1 - 4 years,2,4,36,none,own,2,skilled,1,yes,no
+1 - 200 DM,24,poor,furniture/appliances,6403.00 ,< 100 DM,< 1 year,1,2,33,none,own,1,skilled,1,no,no
+< 0 DM,24,good,furniture/appliances,1987.00 ,< 100 DM,1 - 4 years,2,4,21,none,rent,1,unskilled,2,no,yes
+1 - 200 DM,8,good,furniture/appliances,760.00 ,< 100 DM,4 - 7 years,4,2,44,none,own,1,unskilled,1,no,no
+unknown,24,good,car,2603.00 ,> 1000 DM,1 - 4 years,2,4,28,none,rent,1,skilled,1,yes,no
+unknown,4,critical,car,3380.00 ,< 100 DM,4 - 7 years,1,1,37,none,own,1,skilled,2,no,no
+1 - 200 DM,36,very good,furniture/appliances,3990.00 ,unknown,< 1 year,3,2,29,bank,own,1,unemployed,1,no,no
+1 - 200 DM,24,good,car,11560.00 ,< 100 DM,1 - 4 years,1,4,23,none,rent,2,management,1,no,yes
+< 0 DM,18,good,car,4380.00 ,100 - 500 DM,1 - 4 years,3,4,35,none,own,1,unskilled,2,yes,no
+unknown,6,critical,car,6761.00 ,< 100 DM,4 - 7 years,1,3,45,none,own,2,management,2,yes,no
+1 - 200 DM,30,perfect,business,4280.00 ,100 - 500 DM,1 - 4 years,4,4,26,none,rent,2,unskilled,1,no,yes
+< 0 DM,24,very good,car,2325.00 ,100 - 500 DM,4 - 7 years,2,3,32,bank,own,1,skilled,1,no,no
+1 - 200 DM,10,very good,furniture/appliances,1048.00 ,< 100 DM,1 - 4 years,4,4,23,store,own,1,unskilled,1,no,no
+unknown,21,good,furniture/appliances,3160.00 ,unknown,> 7 years,4,3,41,none,own,1,skilled,1,yes,no
+< 0 DM,24,very good,furniture/appliances,2483.00 ,500 - 1000 DM,1 - 4 years,4,4,22,store,own,1,skilled,1,yes,no
+< 0 DM,39,critical,furniture/appliances,14179.00 ,unknown,4 - 7 years,4,4,30,none,own,2,management,1,yes,no
+< 0 DM,13,critical,business,1797.00 ,< 100 DM,< 1 year,3,1,28,bank,own,2,unskilled,1,no,no
+< 0 DM,15,good,car,2511.00 ,< 100 DM,unemployed,1,4,23,none,rent,1,skilled,1,no,no
+< 0 DM,12,good,car,1274.00 ,< 100 DM,< 1 year,3,1,37,none,own,1,unskilled,1,no,yes
+unknown,21,good,car,5248.00 ,unknown,1 - 4 years,1,3,26,none,own,1,skilled,1,no,no
+unknown,15,good,car,3029.00 ,< 100 DM,4 - 7 years,2,2,33,none,own,1,skilled,1,no,no
+< 0 DM,6,good,furniture/appliances,428.00 ,< 100 DM,> 7 years,2,1,49,bank,own,1,skilled,1,yes,no
+< 0 DM,18,good,car,976.00 ,< 100 DM,< 1 year,1,2,23,none,own,1,unskilled,1,no,yes
+1 - 200 DM,12,good,business,841.00 ,100 - 500 DM,4 - 7 years,2,4,23,none,rent,1,unskilled,1,no,no
+unknown,30,critical,furniture/appliances,5771.00 ,< 100 DM,4 - 7 years,4,2,25,none,own,2,skilled,1,no,no
+unknown,12,poor,renovations,1555.00 ,> 1000 DM,> 7 years,4,4,55,none,other,2,skilled,2,no,yes
+< 0 DM,24,good,car,1285.00 ,unknown,4 - 7 years,4,4,32,none,rent,1,skilled,1,no,yes
+> 200 DM,6,critical,car,1299.00 ,< 100 DM,1 - 4 years,1,1,74,none,own,3,unemployed,2,no,no
+> 200 DM,15,critical,furniture/appliances,1271.00 ,unknown,1 - 4 years,3,4,39,none,other,2,skilled,1,yes,yes
+unknown,24,good,car,1393.00 ,< 100 DM,1 - 4 years,2,2,31,none,own,1,skilled,1,yes,no
+< 0 DM,12,critical,car,691.00 ,< 100 DM,> 7 years,4,3,35,none,own,2,skilled,1,no,yes
+unknown,15,critical,car,5045.00 ,unknown,> 7 years,1,4,59,none,own,1,skilled,1,yes,no
+< 0 DM,18,critical,furniture/appliances,2124.00 ,< 100 DM,1 - 4 years,4,4,24,none,rent,2,skilled,1,no,yes
+< 0 DM,12,good,furniture/appliances,2214.00 ,< 100 DM,1 - 4 years,4,3,24,none,own,1,unskilled,1,no,no
+unknown,21,critical,car,12680.00 ,unknown,> 7 years,4,4,30,none,other,1,management,1,yes,yes
+unknown,24,critical,car,2463.00 ,100 - 500 DM,4 - 7 years,4,3,27,none,own,2,skilled,1,yes,no
+1 - 200 DM,12,good,furniture/appliances,1155.00 ,< 100 DM,> 7 years,3,3,40,bank,own,2,unskilled,1,no,no
+< 0 DM,30,good,furniture/appliances,3108.00 ,< 100 DM,< 1 year,2,4,31,none,own,1,unskilled,1,no,yes
+unknown,10,good,car,2901.00 ,unknown,< 1 year,1,4,31,none,rent,1,skilled,1,no,no
+1 - 200 DM,12,critical,furniture/appliances,3617.00 ,< 100 DM,> 7 years,1,4,28,none,rent,3,skilled,1,yes,no
+unknown,12,critical,furniture/appliances,1655.00 ,< 100 DM,> 7 years,2,4,63,none,own,2,unskilled,1,yes,no
+< 0 DM,24,good,car,2812.00 ,unknown,> 7 years,2,4,26,none,rent,1,skilled,1,no,no
+< 0 DM,36,critical,education,8065.00 ,< 100 DM,1 - 4 years,3,2,25,none,own,2,management,1,yes,yes
+unknown,21,critical,car,3275.00 ,< 100 DM,> 7 years,1,4,36,none,own,1,management,1,yes,no
+unknown,24,critical,furniture/appliances,2223.00 ,100 - 500 DM,> 7 years,4,4,52,bank,own,2,skilled,1,no,no
+> 200 DM,12,critical,car,1480.00 ,500 - 1000 DM,unemployed,2,4,66,bank,other,3,unemployed,1,no,no
+< 0 DM,24,good,car,1371.00 ,unknown,1 - 4 years,4,4,25,none,rent,1,skilled,1,no,yes
+unknown,36,critical,car,3535.00 ,< 100 DM,4 - 7 years,4,4,37,none,own,2,skilled,1,yes,no
+< 0 DM,18,good,furniture/appliances,3509.00 ,< 100 DM,4 - 7 years,4,1,25,none,own,1,skilled,1,no,no
+unknown,36,critical,car,5711.00 ,> 1000 DM,> 7 years,4,2,38,none,own,2,management,1,yes,no
+1 - 200 DM,18,good,renovations,3872.00 ,< 100 DM,unemployed,2,4,67,none,own,1,skilled,1,yes,no
+1 - 200 DM,39,critical,furniture/appliances,4933.00 ,< 100 DM,4 - 7 years,2,2,25,none,own,2,skilled,1,no,yes
+unknown,24,critical,car,1940.00 ,> 1000 DM,> 7 years,4,4,60,none,own,1,skilled,1,yes,no
+1 - 200 DM,12,perfect,education,1410.00 ,< 100 DM,1 - 4 years,2,2,31,none,own,1,unskilled,1,yes,no
+1 - 200 DM,12,good,car,836.00 ,100 - 500 DM,< 1 year,4,2,23,bank,own,1,unskilled,1,no,yes
+1 - 200 DM,20,good,car,6468.00 ,unknown,unemployed,1,4,60,none,own,1,management,1,yes,no
+1 - 200 DM,18,good,business,1941.00 ,> 1000 DM,1 - 4 years,4,2,35,none,own,1,unskilled,1,yes,no
+unknown,22,good,furniture/appliances,2675.00 ,500 - 1000 DM,> 7 years,3,4,40,none,own,1,skilled,1,no,no
+unknown,48,critical,car,2751.00 ,unknown,> 7 years,4,3,38,none,own,2,skilled,2,yes,no
+1 - 200 DM,48,poor,education,6224.00 ,< 100 DM,> 7 years,4,4,50,none,other,1,skilled,1,no,yes
+< 0 DM,40,critical,education,5998.00 ,< 100 DM,1 - 4 years,4,3,27,bank,own,1,skilled,1,yes,yes
+1 - 200 DM,21,good,business,1188.00 ,< 100 DM,> 7 years,2,4,39,none,own,1,skilled,2,no,yes
+unknown,24,good,car,6313.00 ,unknown,> 7 years,3,4,41,none,own,1,management,2,yes,no
+unknown,6,critical,furniture/appliances,1221.00 ,unknown,1 - 4 years,1,2,27,none,own,2,skilled,1,no,no
+> 200 DM,24,good,furniture/appliances,2892.00 ,< 100 DM,> 7 years,3,4,51,none,other,1,skilled,1,no,no
+unknown,24,good,furniture/appliances,3062.00 ,500 - 1000 DM,> 7 years,4,3,32,none,rent,1,skilled,1,yes,no
+unknown,9,good,furniture/appliances,2301.00 ,100 - 500 DM,< 1 year,2,4,22,none,rent,1,skilled,1,no,no
+< 0 DM,18,good,car,7511.00 ,unknown,> 7 years,1,4,51,none,other,1,skilled,2,yes,yes
+unknown,12,critical,furniture/appliances,1258.00 ,< 100 DM,< 1 year,2,4,22,none,rent,2,unskilled,1,no,no
+unknown,24,poor,car,717.00 ,unknown,> 7 years,4,4,54,none,own,2,skilled,1,yes,no
+1 - 200 DM,9,good,car,1549.00 ,unknown,< 1 year,4,2,35,none,own,1,unemployed,1,no,no
+unknown,24,critical,education,1597.00 ,< 100 DM,> 7 years,4,4,54,none,other,2,skilled,2,no,no
+1 - 200 DM,18,critical,furniture/appliances,1795.00 ,< 100 DM,> 7 years,3,4,48,bank,rent,2,unskilled,1,yes,no
+< 0 DM,20,critical,furniture/appliances,4272.00 ,< 100 DM,> 7 years,1,4,24,none,own,2,skilled,1,no,no
+unknown,12,critical,furniture/appliances,976.00 ,unknown,> 7 years,4,4,35,none,own,2,skilled,1,no,no
+1 - 200 DM,12,good,car,7472.00 ,unknown,unemployed,1,2,24,none,rent,1,unemployed,1,no,no
+< 0 DM,36,good,car,9271.00 ,< 100 DM,4 - 7 years,2,1,24,none,own,1,skilled,1,yes,yes
+1 - 200 DM,6,good,furniture/appliances,590.00 ,< 100 DM,< 1 year,3,3,26,none,own,1,unskilled,1,no,no
+unknown,12,critical,furniture/appliances,930.00 ,unknown,> 7 years,4,4,65,none,own,4,skilled,1,no,no
+1 - 200 DM,42,very good,car,9283.00 ,< 100 DM,unemployed,1,2,55,bank,other,1,management,1,yes,no
+1 - 200 DM,15,perfect,car,1778.00 ,< 100 DM,< 1 year,2,1,26,none,rent,2,unemployed,1,no,yes
+1 - 200 DM,8,good,business,907.00 ,< 100 DM,< 1 year,3,2,26,none,own,1,skilled,1,yes,no
+1 - 200 DM,6,good,furniture/appliances,484.00 ,< 100 DM,4 - 7 years,3,3,28,bank,own,1,unskilled,1,no,no
+< 0 DM,36,critical,car,9629.00 ,< 100 DM,4 - 7 years,4,4,24,none,own,2,skilled,1,yes,yes
+< 0 DM,48,good,furniture/appliances,3051.00 ,< 100 DM,1 - 4 years,3,4,54,none,own,1,skilled,1,no,yes
+< 0 DM,48,good,car,3931.00 ,< 100 DM,4 - 7 years,4,4,46,none,other,1,skilled,2,no,yes
+1 - 200 DM,36,poor,car,7432.00 ,< 100 DM,1 - 4 years,2,2,54,none,rent,1,skilled,1,no,no
+unknown,6,good,furniture/appliances,1338.00 ,500 - 1000 DM,1 - 4 years,1,4,62,none,own,1,skilled,1,no,no
+unknown,6,critical,furniture/appliances,1554.00 ,< 100 DM,4 - 7 years,1,2,24,none,rent,2,skilled,1,yes,no
+< 0 DM,36,good,car0,15857.00 ,< 100 DM,unemployed,2,3,43,none,own,1,management,1,no,no
+< 0 DM,18,good,furniture/appliances,1345.00 ,< 100 DM,1 - 4 years,4,3,26,bank,own,1,skilled,1,no,yes
+unknown,12,good,car,1101.00 ,< 100 DM,1 - 4 years,3,2,27,none,own,2,skilled,1,yes,no
+> 200 DM,12,good,furniture/appliances,3016.00 ,< 100 DM,1 - 4 years,3,1,24,none,own,1,skilled,1,no,no
+< 0 DM,36,good,furniture/appliances,2712.00 ,< 100 DM,> 7 years,2,2,41,bank,own,1,skilled,2,no,yes
+< 0 DM,8,critical,car,731.00 ,< 100 DM,> 7 years,4,4,47,none,own,2,unskilled,1,no,no
+unknown,18,critical,furniture/appliances,3780.00 ,< 100 DM,< 1 year,3,2,35,none,own,2,management,1,yes,no
+< 0 DM,21,critical,car,1602.00 ,< 100 DM,> 7 years,4,3,30,none,own,2,skilled,1,yes,no
+< 0 DM,18,critical,car,3966.00 ,< 100 DM,> 7 years,1,4,33,bank,rent,3,skilled,1,yes,yes
+unknown,18,perfect,business,4165.00 ,< 100 DM,1 - 4 years,2,2,36,store,own,2,skilled,2,no,yes
+< 0 DM,36,good,car,8335.00 ,unknown,> 7 years,3,4,47,none,other,1,skilled,1,no,yes
+1 - 200 DM,48,poor,business,6681.00 ,unknown,1 - 4 years,4,4,38,none,other,1,skilled,2,yes,no
+unknown,24,poor,business,2375.00 ,500 - 1000 DM,1 - 4 years,4,2,44,none,own,2,skilled,2,yes,no
+< 0 DM,18,good,car,1216.00 ,< 100 DM,< 1 year,4,3,23,none,rent,1,skilled,1,yes,yes
+< 0 DM,45,perfect,business,11816.00 ,< 100 DM,> 7 years,2,4,29,none,rent,2,skilled,1,no,yes
+1 - 200 DM,24,good,furniture/appliances,5084.00 ,unknown,> 7 years,2,4,42,none,own,1,skilled,1,yes,no
+> 200 DM,15,good,furniture/appliances,2327.00 ,< 100 DM,< 1 year,2,3,25,none,own,1,unskilled,1,no,yes
+< 0 DM,12,perfect,car,1082.00 ,< 100 DM,1 - 4 years,4,4,48,bank,own,2,skilled,1,no,yes
+unknown,12,good,furniture/appliances,886.00 ,unknown,1 - 4 years,4,2,21,none,own,1,skilled,1,no,no
+unknown,4,good,furniture/appliances,601.00 ,< 100 DM,< 1 year,1,3,23,none,rent,1,unskilled,2,no,no
+< 0 DM,24,critical,car,2957.00 ,< 100 DM,> 7 years,4,4,63,none,own,2,skilled,1,yes,no
+unknown,24,critical,furniture/appliances,2611.00 ,< 100 DM,> 7 years,4,3,46,none,own,2,skilled,1,no,no
+< 0 DM,36,good,furniture/appliances,5179.00 ,< 100 DM,4 - 7 years,4,2,29,none,own,1,skilled,1,no,yes
+unknown,21,poor,car,2993.00 ,< 100 DM,1 - 4 years,3,2,28,store,own,2,unskilled,1,no,no
+unknown,18,good,renovations,1943.00 ,< 100 DM,< 1 year,4,4,23,none,own,1,skilled,1,no,yes
+unknown,24,very good,business,1559.00 ,< 100 DM,4 - 7 years,4,4,50,bank,own,1,skilled,1,yes,no
+unknown,18,good,furniture/appliances,3422.00 ,< 100 DM,> 7 years,4,4,47,bank,own,3,skilled,2,yes,no
+1 - 200 DM,21,good,furniture/appliances,3976.00 ,unknown,4 - 7 years,2,3,35,none,own,1,skilled,1,yes,no
+unknown,18,good,car,6761.00 ,unknown,1 - 4 years,2,4,68,none,rent,2,skilled,1,no,yes
+unknown,24,good,car,1249.00 ,< 100 DM,< 1 year,4,2,28,none,own,1,skilled,1,no,no
+< 0 DM,9,good,furniture/appliances,1364.00 ,< 100 DM,4 - 7 years,3,4,59,none,own,1,skilled,1,no,no
+< 0 DM,12,good,furniture/appliances,709.00 ,< 100 DM,> 7 years,4,4,57,store,own,1,unskilled,1,no,yes
+< 0 DM,20,critical,car,2235.00 ,< 100 DM,1 - 4 years,4,2,33,bank,rent,2,skilled,1,no,yes
+unknown,24,critical,car,4042.00 ,unknown,4 - 7 years,3,4,43,none,own,2,skilled,1,yes,no
+unknown,15,critical,furniture/appliances,1471.00 ,< 100 DM,1 - 4 years,4,4,35,none,other,2,skilled,1,yes,no
+< 0 DM,18,very good,car,1442.00 ,< 100 DM,4 - 7 years,4,4,32,none,other,2,unskilled,2,no,yes
+unknown,36,poor,car,10875.00 ,< 100 DM,> 7 years,2,2,45,none,own,2,skilled,2,yes,no
+unknown,24,good,car,1474.00 ,100 - 500 DM,< 1 year,4,3,33,none,own,1,skilled,1,yes,no
+unknown,10,good,education,894.00 ,unknown,4 - 7 years,4,3,40,none,own,1,skilled,1,yes,no
+unknown,15,critical,furniture/appliances,3343.00 ,< 100 DM,1 - 4 years,4,2,28,none,other,1,skilled,1,yes,no
+< 0 DM,15,good,car,3959.00 ,< 100 DM,1 - 4 years,3,2,29,none,own,1,skilled,1,yes,yes
+unknown,9,good,car,3577.00 ,100 - 500 DM,1 - 4 years,1,2,26,none,rent,1,skilled,2,no,no
+unknown,24,critical,car,5804.00 ,> 1000 DM,1 - 4 years,4,2,27,none,own,2,skilled,1,no,no
+unknown,18,poor,business,2169.00 ,< 100 DM,1 - 4 years,4,2,28,none,own,1,skilled,1,yes,yes
+< 0 DM,24,good,furniture/appliances,2439.00 ,< 100 DM,< 1 year,4,4,35,none,own,1,skilled,1,yes,yes
+unknown,27,critical,furniture/appliances,4526.00 ,> 1000 DM,< 1 year,4,2,32,store,own,2,unskilled,2,yes,no
+unknown,10,good,furniture/appliances,2210.00 ,< 100 DM,1 - 4 years,2,2,25,bank,rent,1,unskilled,1,no,yes
+unknown,15,good,furniture/appliances,2221.00 ,500 - 1000 DM,1 - 4 years,2,4,20,none,rent,1,skilled,1,no,no
+< 0 DM,18,good,furniture/appliances,2389.00 ,< 100 DM,< 1 year,4,1,27,store,own,1,skilled,1,no,no
+unknown,12,critical,furniture/appliances,3331.00 ,< 100 DM,> 7 years,2,4,42,store,own,1,skilled,1,no,no
+unknown,36,good,business,7409.00 ,unknown,> 7 years,3,2,37,none,own,2,skilled,1,no,no
+< 0 DM,12,good,furniture/appliances,652.00 ,< 100 DM,> 7 years,4,4,24,none,rent,1,skilled,1,no,no
+unknown,36,poor,furniture/appliances,7678.00 ,500 - 1000 DM,4 - 7 years,2,4,40,none,own,2,skilled,1,yes,no
+> 200 DM,6,critical,car,1343.00 ,< 100 DM,> 7 years,1,4,46,none,own,2,skilled,2,no,no
+< 0 DM,24,critical,business,1382.00 ,100 - 500 DM,4 - 7 years,4,1,26,none,own,2,skilled,1,yes,no
+unknown,15,good,furniture/appliances,874.00 ,unknown,< 1 year,4,1,24,none,own,1,skilled,1,no,no
+< 0 DM,12,good,furniture/appliances,3590.00 ,< 100 DM,1 - 4 years,2,2,29,none,own,1,unskilled,2,no,no
+1 - 200 DM,11,critical,car,1322.00 ,> 1000 DM,1 - 4 years,4,4,40,none,own,2,skilled,1,no,no
+< 0 DM,18,very good,furniture/appliances,1940.00 ,< 100 DM,< 1 year,3,4,36,bank,other,1,management,1,yes,no
+unknown,36,good,furniture/appliances,3595.00 ,< 100 DM,> 7 years,4,2,28,none,own,1,skilled,1,no,no
+< 0 DM,9,good,car,1422.00 ,< 100 DM,< 1 year,3,2,27,none,other,1,management,1,yes,yes
+unknown,30,critical,furniture/appliances,6742.00 ,unknown,4 - 7 years,2,3,36,none,own,2,skilled,1,no,no
+unknown,24,good,car,7814.00 ,< 100 DM,4 - 7 years,3,3,38,none,own,1,management,1,yes,no
+unknown,24,good,car,9277.00 ,unknown,1 - 4 years,2,4,48,none,other,1,skilled,1,yes,no
+1 - 200 DM,30,critical,car,2181.00 ,unknown,> 7 years,4,4,36,none,own,2,skilled,1,no,no
+unknown,18,critical,furniture/appliances,1098.00 ,< 100 DM,unemployed,4,4,65,none,own,2,unemployed,1,no,no
+1 - 200 DM,24,good,furniture/appliances,4057.00 ,< 100 DM,4 - 7 years,3,3,43,none,own,1,skilled,1,yes,yes
+< 0 DM,12,good,education,795.00 ,< 100 DM,< 1 year,4,4,53,none,own,1,skilled,1,no,yes
+1 - 200 DM,24,critical,business,2825.00 ,unknown,4 - 7 years,4,3,34,none,own,2,skilled,2,yes,no
+1 - 200 DM,48,good,business,15672.00 ,< 100 DM,1 - 4 years,2,2,23,none,own,1,skilled,1,yes,yes
+unknown,36,critical,car,6614.00 ,< 100 DM,> 7 years,4,4,34,none,own,2,management,1,yes,no
+unknown,28,very good,car,7824.00 ,unknown,< 1 year,3,4,40,bank,rent,2,skilled,2,yes,no
+< 0 DM,27,critical,business,2442.00 ,< 100 DM,> 7 years,4,4,43,store,own,4,management,2,yes,no
+unknown,15,critical,furniture/appliances,1829.00 ,< 100 DM,> 7 years,4,4,46,none,own,2,skilled,1,yes,no
+< 0 DM,12,critical,car,2171.00 ,< 100 DM,1 - 4 years,4,4,38,bank,own,2,unskilled,1,no,no
+1 - 200 DM,36,critical,car,5800.00 ,< 100 DM,1 - 4 years,3,4,34,none,own,2,skilled,1,yes,no
+unknown,18,critical,furniture/appliances,1169.00 ,unknown,1 - 4 years,4,3,29,none,own,2,skilled,1,yes,no
+unknown,36,poor,car,8947.00 ,unknown,4 - 7 years,3,2,31,store,own,1,management,2,yes,no
+< 0 DM,21,good,furniture/appliances,2606.00 ,< 100 DM,< 1 year,4,4,28,none,rent,1,management,1,yes,no
+unknown,12,critical,furniture/appliances,1592.00 ,> 1000 DM,4 - 7 years,3,2,35,none,own,1,skilled,1,no,no
+unknown,15,good,furniture/appliances,2186.00 ,unknown,4 - 7 years,1,4,33,bank,rent,1,unskilled,1,no,no
+< 0 DM,18,good,furniture/appliances,4153.00 ,< 100 DM,1 - 4 years,2,3,42,none,own,1,skilled,1,no,yes
+< 0 DM,16,critical,car,2625.00 ,< 100 DM,> 7 years,2,4,43,bank,rent,1,skilled,1,yes,yes
+unknown,20,critical,car,3485.00 ,unknown,< 1 year,2,4,44,none,own,2,skilled,1,yes,no
+unknown,36,critical,car,10477.00 ,unknown,> 7 years,2,4,42,none,other,2,skilled,1,no,no
+unknown,15,good,furniture/appliances,1386.00 ,unknown,1 - 4 years,4,2,40,none,rent,1,skilled,1,yes,no
+unknown,24,good,furniture/appliances,1278.00 ,< 100 DM,> 7 years,4,1,36,none,own,1,management,1,yes,no
+< 0 DM,12,good,furniture/appliances,1107.00 ,< 100 DM,1 - 4 years,2,2,20,none,rent,1,management,2,yes,no
+< 0 DM,21,good,car,3763.00 ,unknown,4 - 7 years,2,2,24,none,own,1,unskilled,1,no,no
+1 - 200 DM,36,good,education,3711.00 ,unknown,1 - 4 years,2,2,27,none,own,1,skilled,1,no,no
+unknown,15,poor,car,3594.00 ,< 100 DM,< 1 year,1,2,46,none,own,2,unskilled,1,no,no
+1 - 200 DM,9,good,car,3195.00 ,unknown,1 - 4 years,1,2,33,none,own,1,unskilled,1,no,no
+unknown,36,poor,furniture/appliances,4454.00 ,< 100 DM,1 - 4 years,4,4,34,none,own,2,skilled,1,no,no
+1 - 200 DM,24,critical,furniture/appliances,4736.00 ,< 100 DM,< 1 year,2,4,25,bank,own,1,unskilled,1,no,yes
+1 - 200 DM,30,good,furniture/appliances,2991.00 ,unknown,> 7 years,2,4,25,none,own,1,skilled,1,no,no
+unknown,11,good,business,2142.00 ,> 1000 DM,> 7 years,1,2,28,none,own,1,skilled,1,yes,no
+< 0 DM,24,very good,business,3161.00 ,< 100 DM,1 - 4 years,4,2,31,none,rent,1,skilled,1,yes,yes
+1 - 200 DM,48,perfect,car0,18424.00 ,< 100 DM,1 - 4 years,1,2,32,bank,own,1,management,1,yes,yes
+unknown,10,good,car,2848.00 ,100 - 500 DM,1 - 4 years,1,2,32,none,own,1,skilled,2,no,no
+< 0 DM,6,good,car,14896.00 ,< 100 DM,> 7 years,1,4,68,bank,own,1,management,1,yes,yes
+< 0 DM,24,good,furniture/appliances,2359.00 ,100 - 500 DM,unemployed,1,1,33,none,own,1,skilled,1,no,yes
+< 0 DM,24,good,furniture/appliances,3345.00 ,< 100 DM,> 7 years,4,2,39,none,rent,1,management,1,yes,yes
+unknown,18,critical,furniture/appliances,1817.00 ,< 100 DM,1 - 4 years,4,2,28,none,own,2,skilled,1,no,no
+unknown,48,poor,furniture/appliances,12749.00 ,500 - 1000 DM,4 - 7 years,4,1,37,none,own,1,management,1,yes,no
+< 0 DM,9,good,furniture/appliances,1366.00 ,< 100 DM,< 1 year,3,4,22,none,rent,1,skilled,1,no,yes
+1 - 200 DM,12,good,car,2002.00 ,< 100 DM,4 - 7 years,3,4,30,none,rent,1,skilled,2,yes,no
+< 0 DM,24,very good,furniture/appliances,6872.00 ,< 100 DM,< 1 year,2,1,55,bank,own,1,skilled,1,yes,yes
+< 0 DM,12,very good,car,697.00 ,< 100 DM,< 1 year,4,2,46,bank,own,2,skilled,1,yes,yes
+< 0 DM,18,critical,furniture/appliances,1049.00 ,< 100 DM,< 1 year,4,4,21,none,rent,1,skilled,1,no,no
+< 0 DM,48,good,car,10297.00 ,< 100 DM,4 - 7 years,4,4,39,store,other,3,skilled,2,yes,yes
+unknown,30,good,furniture/appliances,1867.00 ,unknown,> 7 years,4,4,58,none,own,1,skilled,1,yes,no
+< 0 DM,12,poor,car,1344.00 ,< 100 DM,1 - 4 years,4,2,43,none,own,2,unskilled,2,no,no
+< 0 DM,24,good,furniture/appliances,1747.00 ,< 100 DM,< 1 year,4,1,24,none,own,1,unskilled,1,no,no
+1 - 200 DM,9,good,furniture/appliances,1670.00 ,< 100 DM,< 1 year,4,2,22,none,own,1,skilled,1,yes,yes
+unknown,9,critical,car,1224.00 ,< 100 DM,1 - 4 years,3,1,30,none,own,2,skilled,1,no,no
+unknown,12,critical,furniture/appliances,522.00 ,500 - 1000 DM,> 7 years,4,4,42,none,own,2,skilled,2,yes,no
+< 0 DM,12,good,furniture/appliances,1498.00 ,< 100 DM,1 - 4 years,4,1,23,bank,own,1,skilled,1,no,no
+1 - 200 DM,30,poor,furniture/appliances,1919.00 ,100 - 500 DM,< 1 year,4,3,30,store,own,2,management,1,no,yes
+> 200 DM,9,good,furniture/appliances,745.00 ,< 100 DM,1 - 4 years,3,2,28,none,own,1,unskilled,1,no,yes
+1 - 200 DM,6,good,furniture/appliances,2063.00 ,< 100 DM,< 1 year,4,3,30,none,rent,1,management,1,yes,no
+1 - 200 DM,60,good,education,6288.00 ,< 100 DM,1 - 4 years,4,4,42,none,other,1,skilled,1,no,yes
+unknown,24,critical,car,6842.00 ,unknown,1 - 4 years,2,4,46,none,own,2,management,2,yes,no
+unknown,12,good,car,3527.00 ,unknown,< 1 year,2,3,45,none,own,1,management,2,yes,no
+unknown,10,good,car,1546.00 ,< 100 DM,1 - 4 years,3,2,31,none,own,1,unskilled,2,no,no
+unknown,24,good,furniture/appliances,929.00 ,unknown,4 - 7 years,4,2,31,store,own,1,skilled,1,yes,no
+unknown,4,critical,car,1455.00 ,< 100 DM,4 - 7 years,2,1,42,none,own,3,unskilled,2,no,no
+< 0 DM,15,good,furniture/appliances,1845.00 ,< 100 DM,< 1 year,4,1,46,none,rent,1,skilled,1,no,no
+1 - 200 DM,48,perfect,car,8358.00 ,500 - 1000 DM,< 1 year,1,1,30,none,own,2,skilled,1,no,no
+< 0 DM,24,very good,furniture/appliances,3349.00 ,500 - 1000 DM,< 1 year,4,4,30,none,other,1,skilled,2,yes,yes
+unknown,12,good,car,2859.00 ,unknown,unemployed,4,4,38,none,own,1,management,1,yes,no
+unknown,18,good,furniture/appliances,1533.00 ,< 100 DM,< 1 year,4,1,43,none,own,1,unskilled,2,no,yes
+unknown,24,good,furniture/appliances,3621.00 ,100 - 500 DM,> 7 years,2,4,31,none,own,2,skilled,1,no,yes
+1 - 200 DM,18,critical,business,3590.00 ,< 100 DM,unemployed,3,3,40,none,own,3,unemployed,2,yes,no
+< 0 DM,36,poor,business,2145.00 ,< 100 DM,4 - 7 years,2,1,24,none,own,2,skilled,1,yes,yes
+1 - 200 DM,24,good,car,4113.00 ,500 - 1000 DM,< 1 year,3,4,28,none,rent,1,skilled,1,no,yes
+unknown,36,good,furniture/appliances,10974.00 ,< 100 DM,unemployed,4,2,26,none,own,2,management,1,yes,yes
+< 0 DM,12,good,car,1893.00 ,< 100 DM,1 - 4 years,4,4,29,none,own,1,skilled,1,yes,no
+< 0 DM,24,critical,furniture/appliances,1231.00 ,> 1000 DM,> 7 years,4,4,57,none,rent,2,management,1,yes,no
+> 200 DM,30,critical,furniture/appliances,3656.00 ,unknown,> 7 years,4,4,49,store,own,2,unskilled,1,no,no
+1 - 200 DM,9,critical,furniture/appliances,1154.00 ,< 100 DM,> 7 years,2,4,37,none,own,3,unskilled,1,no,no
+< 0 DM,28,good,car,4006.00 ,< 100 DM,1 - 4 years,3,2,45,none,own,1,unskilled,1,no,yes
+1 - 200 DM,24,good,furniture/appliances,3069.00 ,100 - 500 DM,> 7 years,4,4,30,none,other,1,skilled,1,no,no
+unknown,6,critical,furniture/appliances,1740.00 ,< 100 DM,> 7 years,2,2,30,none,rent,2,skilled,1,no,no
+1 - 200 DM,21,poor,car,2353.00 ,< 100 DM,1 - 4 years,1,4,47,none,own,2,skilled,1,no,no
+unknown,15,good,car,3556.00 ,unknown,1 - 4 years,3,2,29,none,own,1,skilled,1,no,no
+unknown,24,good,furniture/appliances,2397.00 ,500 - 1000 DM,> 7 years,3,2,35,bank,own,2,skilled,1,yes,yes
+1 - 200 DM,6,good,renovations,454.00 ,< 100 DM,< 1 year,3,1,22,none,own,1,unskilled,1,no,no
+1 - 200 DM,30,good,furniture/appliances,1715.00 ,unknown,1 - 4 years,4,1,26,none,own,1,skilled,1,no,no
+1 - 200 DM,27,critical,furniture/appliances,2520.00 ,500 - 1000 DM,1 - 4 years,4,2,23,none,own,2,unskilled,1,no,yes
+unknown,15,good,furniture/appliances,3568.00 ,< 100 DM,> 7 years,4,2,54,bank,rent,1,management,1,yes,no
+unknown,42,good,furniture/appliances,7166.00 ,unknown,4 - 7 years,2,4,29,none,rent,1,skilled,1,yes,no
+< 0 DM,11,critical,car,3939.00 ,< 100 DM,1 - 4 years,1,2,40,none,own,2,unskilled,2,no,no
+1 - 200 DM,15,good,renovations,1514.00 ,100 - 500 DM,1 - 4 years,4,2,22,none,own,1,skilled,1,no,no
+unknown,24,good,car,7393.00 ,< 100 DM,1 - 4 years,1,4,43,none,own,1,unskilled,2,no,no
+< 0 DM,24,very good,car,1193.00 ,< 100 DM,unemployed,1,4,29,none,rent,2,unemployed,1,no,yes
+< 0 DM,60,good,business,7297.00 ,< 100 DM,> 7 years,4,4,36,none,rent,1,skilled,1,no,yes
+unknown,30,critical,furniture/appliances,2831.00 ,< 100 DM,1 - 4 years,4,2,33,none,own,1,skilled,1,yes,no
+> 200 DM,24,good,furniture/appliances,1258.00 ,500 - 1000 DM,1 - 4 years,3,3,57,none,own,1,unskilled,1,no,no
+1 - 200 DM,6,good,furniture/appliances,753.00 ,< 100 DM,1 - 4 years,2,3,64,none,own,1,skilled,1,no,no
+1 - 200 DM,18,poor,business,2427.00 ,unknown,> 7 years,4,2,42,none,own,2,skilled,1,no,no
+unknown,24,poor,car,2538.00 ,< 100 DM,> 7 years,4,4,47,none,own,2,unskilled,2,no,yes
+1 - 200 DM,15,very good,car,1264.00 ,100 - 500 DM,1 - 4 years,2,2,25,none,rent,1,skilled,1,no,yes
+1 - 200 DM,30,critical,furniture/appliances,8386.00 ,< 100 DM,4 - 7 years,2,2,49,none,own,1,skilled,1,no,yes
+unknown,48,good,business,4844.00 ,< 100 DM,unemployed,3,2,33,bank,rent,1,management,1,yes,yes
+> 200 DM,21,good,car,2923.00 ,100 - 500 DM,1 - 4 years,1,1,28,bank,own,1,management,1,yes,no
+< 0 DM,36,good,car,8229.00 ,< 100 DM,1 - 4 years,2,2,26,none,own,1,skilled,2,no,yes
+unknown,24,critical,furniture/appliances,2028.00 ,< 100 DM,4 - 7 years,2,2,30,none,own,2,unskilled,1,no,no
+< 0 DM,15,critical,furniture/appliances,1433.00 ,< 100 DM,1 - 4 years,4,3,25,none,rent,2,skilled,1,no,no
+> 200 DM,42,perfect,business,6289.00 ,< 100 DM,< 1 year,2,1,33,none,own,2,skilled,1,no,no
+unknown,13,good,furniture/appliances,1409.00 ,100 - 500 DM,unemployed,2,4,64,none,own,1,skilled,1,no,no
+< 0 DM,24,good,car,6579.00 ,< 100 DM,unemployed,4,2,29,none,other,1,management,1,yes,no
+1 - 200 DM,24,critical,furniture/appliances,1743.00 ,< 100 DM,> 7 years,4,2,48,none,own,2,unskilled,1,no,no
+unknown,12,critical,education,3565.00 ,unknown,< 1 year,2,1,37,none,own,2,unskilled,2,no,no
+unknown,15,very good,furniture/appliances,1569.00 ,100 - 500 DM,> 7 years,4,4,34,bank,own,1,unskilled,2,no,no
+< 0 DM,18,good,furniture/appliances,1936.00 ,unknown,4 - 7 years,2,4,23,none,rent,2,unskilled,1,no,no
+< 0 DM,36,good,furniture/appliances,3959.00 ,< 100 DM,unemployed,4,3,30,none,own,1,management,1,yes,no
+unknown,12,good,car,2390.00 ,unknown,> 7 years,4,3,50,none,own,1,skilled,1,yes,no
+unknown,12,good,furniture/appliances,1736.00 ,< 100 DM,4 - 7 years,3,4,31,none,own,1,unskilled,1,no,no
+< 0 DM,30,good,car,3857.00 ,< 100 DM,1 - 4 years,4,4,40,none,own,1,management,1,yes,no
+unknown,12,good,furniture/appliances,804.00 ,< 100 DM,> 7 years,4,4,38,none,own,1,skilled,1,no,no
+< 0 DM,45,good,furniture/appliances,1845.00 ,< 100 DM,1 - 4 years,4,4,23,none,other,1,skilled,1,yes,yes
+1 - 200 DM,45,critical,car,4576.00 ,100 - 500 DM,unemployed,3,4,27,none,own,1,skilled,1,no,no
